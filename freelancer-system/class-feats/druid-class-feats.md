@@ -1,6 +1,6 @@
 <h1>List Of Class Feats</h1>
 
-<u>Wild Shape I -LCF-</u>
+<h4>Wild Shape I -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Wisdom Of 13 Or Higher, Spellcasting I/Pact Spellcasting I</i>
 
@@ -19,19 +19,19 @@ Your Wild Shape lasts for 1 hour or until you end it yourself, drop to 0 hit poi
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all of your expended uses when you finish a long rest.
 
-<u>Wild Shape II -LCF-</u>
+<h4>Wild Shape II -LCF-</h4>
 
 <i>Prerequisites: 5th Level, Wild Shape I</i>
 
 You can now use your Wild Shape to transform into beasts which have a challenge rating of 1 or lower.
 
-<u>Wild Shape III -LCF-</u>
+<h4>Wild Shape III -LCF-</h4>
 
 <i>Prerequisites: 9th Level, Wild Shape II</i>
 
 You can now use your Wild Shape to transform into beasts which have a challenge rating of 2 or lower.
 
-<u>Wild Shape IV -LCF-</u>
+<h4>Wild Shape IV -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Wild Shape III</i>
 

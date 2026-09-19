@@ -1,6 +1,6 @@
 <h1>List Of Racial Traits</h1>
 
-<u>Additional Feat -8 Points-</u>
+<h4>Additional Feat -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Humanoid), Feat</i>
 
@@ -8,7 +8,7 @@ You take a normal feat that you qualify for.
 
 <i>Restrictions: You must be using the Legendary Custom Race option.</i>
 
-<u>Amorphous Form -2 Points-</u>
+<h4>Amorphous Form -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Elemental/Ooze)</i>
 
@@ -16,7 +16,7 @@ Now while you are not holding, wearing, or carrying anything, you can move throu
 
 <i>Restrictions: You must not have [False Appearance].</i>
 
-<u>Change Shape -8 Points-</u>
+<h4>Change Shape -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Construct/Elemental/Humanoid/Ooze/Undead)</i>
 
@@ -26,13 +26,13 @@ Your human form lasts until you return to your normal form, use this feature to 
 
 <i>Restrictions: You must not have [Human Disguise].</i>
 
-<u>Claws -2 Points-</u>
+<h4>Claws -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Elemental/Ooze/Plant/Undead)</i>
 
 You now have claws on your hands and feet. They are natural weapons that you can use for your unarmed strikes. When you hit with them, you inflict piercing damage or slashing damage instead of bludgeoning damage.
 
-<u>Climate Adaptation -2 Points-</u>
+<h4>Climate Adaptation -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Celestial/Fiend/Humanoid)</i>
 
@@ -40,7 +40,7 @@ You are now naturally adapted to hot climates and cold climates.
 
 <i>Restrictions: You must not have [Perpetual Order], [Trance], or [Void Breath].</i>
 
-<u>Deeply Unusual Nature -8 Points-</u>
+<h4>Deeply Unusual Nature -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Construct/Undead), Unusual Nature</i>
 
@@ -50,7 +50,7 @@ You can also now gain the benefits of a long rest by performing light activities
 
 <i>Restrictions: You must be using the Legendary Custom Race option.</i>
 
-<u>Draconic Breath -6 Points-</u>
+<h4>Draconic Breath -6 Points-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Dragon/Humanoid)</i>
 
@@ -64,7 +64,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 <i>Restrictions: You must not have [Determination], [Huge Form], or [Keen Senses].</i>
 
-<u>Elemental Nature -8 Points-</u>
+<h4>Elemental Nature -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Dragon/Elemental/Giant/Ooze/Plant)</i>
 
@@ -74,7 +74,7 @@ You can also no longer be forcibly put to sleep. And you no longer require sleep
 
 <i>Restrictions: You must be using the Legendary Custom Race option.</i>
 
-<u>Equine Body -2 Points-</u>
+<h4>Equine Body -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Elemental/Humanoid/Ooze/Plant/Undead)</i>
 
@@ -84,7 +84,7 @@ You also now count as one size larger for determining your carrying capacity and
 
 <i>Restrictions: You must not have [Powerful Build] or [Serpentine Body].</i>
 
-<u>Extended Longevity -2 Points-</u>
+<h4>Extended Longevity -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Humanoid)</i>
 
@@ -92,7 +92,7 @@ You now have a lifespan of 1000 years instead of 100 years.
 
 <i>Restrictions: You must not have [Feat].</i>
 
-<u>False Appearance -2 Points-</u>
+<h4>False Appearance -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Elemental/Plant)</i>
 
@@ -100,7 +100,7 @@ You can now use the Hide action to attempt to hide by pretending to be an object
 
 <i>Restrictions: You must not have [Amorphous Form].</i>
 
-<u>Fangs -2 Points-</u>
+<h4>Fangs -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Fey/Humanoid/Monstrosity/Undead)</i>
 
@@ -112,7 +112,7 @@ You can only make yourself regain hit points in this way a number of times equal
 
 <i>Restrictions: You must not have [Hazy Memories].</i>
 
-<u>Feat -8 Points-</u>
+<h4>Feat -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Humanoid)</i>
 
@@ -120,7 +120,7 @@ You take a normal feat that you qualify for.
 
 <i>Restrictions: You must not have [Extended Longevity].</i>
 
-<u>Godly Nature -8 Points-</u>
+<h4>Godly Nature -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Fiend/Celestial), Climate Adaptation/Perpetual Order</i>
 
@@ -130,13 +130,13 @@ You can also no longer be forcibly put to sleep. And you no longer require sleep
 
 <i>Restrictions: You must be using the Legendary Custom Race option.</i>
 
-<u>Horns -1 Point-</u>
+<h4>Horns -1 Point-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Elemental/Ooze/Plant/Undead)</i>
 
 You now have horns on your head. They are natural weapons that you can use for your unarmed strikes. When you hit with them, you inflict piercing damage or slashing damage instead of bludgeoning damage.
 
-<u>Huge Form -6 Points-</u>
+<h4>Huge Form -6 Points-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Giant/Humanoid)</i>
 
@@ -154,7 +154,7 @@ You can only use this feature one time, and you regain all of your expended uses
 
 <i>Restrictions: You must not have [Determination], [Draconic Breath], or [Keen Senses].</i>
 
-<u>Human Disguise -4 Points-</u>
+<h4>Human Disguise -4 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Construct/Elemental/Humanoid/Ooze/Undead)</i>
 
@@ -166,7 +166,7 @@ Your personal human form lasts until you return to your normal form or die.
 
 <i>Restrictions: You must not have [Change Shape].</i>
 
-<u>Hybrid Feat -8 Points-</u>
+<h4>Hybrid Feat -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Humanoid), Extended Longevity</i>
 
@@ -174,7 +174,7 @@ You take a normal feat that you qualify for.
 
 <i>Restrictions: You must be using the Legendary Custom Race option.</i>
 
-<u>Keen Senses -6 Points-</u>
+<h4>Keen Senses -6 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Elemental/Ooze/Plant/Undead)</i>
 
@@ -182,7 +182,7 @@ You now have animalistic eyes, an animalistic nose, and animalistic ears. Now wh
 
 <i>Restrictions: You must not have [Determination], [Draconic Breath], or [Huge Form].</i>
 
-<u>Natural Armor -2 Points-</u>
+<h4>Natural Armor -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Undead)</i>
 
@@ -190,7 +190,7 @@ Now while you are not wearing a suit of armor, your AC is equal to 12 + your Dex
 
 <i>Restrictions: You must not have [Integrated Armor]. And if you are using the Freelancer class, you must not have [Unarmored Defense].</i>
 
-<u>Perpetual Order -2 Points-</u>
+<h4>Perpetual Order -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Celestial/Fiend/Humanoid)</i>
 
@@ -198,7 +198,7 @@ Your alignment can no longer be forcibly changed.
 
 <i>Restrictions: You must not have [Climate Adaptation], [Trance], or [Void Breath].</i>
 
-<u>Robust Shell -4 Points-</u>
+<h4>Robust Shell -4 Points-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Humanoid), Natural Armor</i>
 
@@ -206,7 +206,7 @@ You now have a shell on your upper back. Now while you possess that shell, you h
 
 <i>Restrictions: You must not have [Wings].</i>
 
-<u>Serpentine Body -3 Points-</u>
+<h4>Serpentine Body -3 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Elemental/Humanoid/Ooze/Plant/Undead)</i>
 
@@ -216,13 +216,13 @@ And if you grapple another creature with it, they are restrained until that grap
 
 <i>Restrictions: You must not have [Equine Body] or [Tail].</i>
 
-<u>Stinger -1 Point-</u>
+<h4>Stinger -1 Point-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Elemental/Ooze/Plant/Undead), Tail</i>
 
 You now have a stinger on your tail. It is a natural weapon that you can use for your unarmed strikes. When you hit with it, you inflict piercing damage or slashing damage instead of bludgeoning damage.
 
-<u>Tail -2 Points-</u>
+<h4>Tail -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Elemental/Ooze/Plant/Undead)</i>
 
@@ -230,7 +230,7 @@ You now have a lengthy tail on your lower back. It has a reach of 5 feet, and it
 
 <i>Restrictions: You must not have [Serpentine Body].</i>
 
-<u>Trance -2 Points-</u>
+<h4>Trance -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Fey/Humanoid)</i>
 
@@ -238,7 +238,7 @@ You can no longer be forcibly put to sleep. And you no longer require sleep, but
 
 <i>Restrictions: You must not have [Climate Adaptation], [Perpetual Order], or [Void Breath].</i>
 
-<u>Unusual Nature -8 Points-</u>
+<h4>Unusual Nature -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Construct/Undead)</i>
 
@@ -246,7 +246,7 @@ You no longer require food or water to survive, and you no longer require air to
 
 You can also no longer be forcibly put to sleep. And you no longer require sleep, but you must enter a meditative state for 6 hours during a long rest to gain its benefits. You are partially conscious in this state, allowing you to still be aware of your surroundings during it.
 
-<u>Void Breath -2 Points-</u>
+<h4>Void Breath -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Aberration/Beast/Humanoid)</i>
 
@@ -254,7 +254,7 @@ You no longer require air to breathe.
 
 <i>Restrictions: You must not have [Climate Adaptation], [Perpetual Order], or [Trance].</i>
 
-<u>Wings -6 Points-</u>
+<h4>Wings -6 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Elemental/Ooze/Plant/Undead)</i>
 

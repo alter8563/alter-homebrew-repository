@@ -1,6 +1,6 @@
 <h1>List Of Class Feats</h1>
 
-<u>Font Of Power I -GCF-</u>
+<h4>Font Of Power I -GCF-</h4>
 
 <i>Prerequisites: 3rd Level, Combat Maneuver I/Spellcasting I</i>
 
@@ -12,31 +12,31 @@ You regain all of your spent chi points when you finish a short rest or a long r
 
 <i>Restrictions: You must not have [Font Of Magic I].</i>
 
-<u>Font Of Power II -GCF-</u>
+<h4>Font Of Power II -GCF-</h4>
 
 <i>Prerequisites: 5th Level, Font Of Power I</i>
 
 The maximum for your pool of chi points is increased to 8 points.
 
-<u>Font Of Power III -GCF-</u>
+<h4>Font Of Power III -GCF-</h4>
 
 <i>Prerequisites: 9th Level, Font Of Power II</i>
 
 The maximum for your pool of chi points is increased to 12 points.
 
-<u>Font Of Power IV -GCF-</u>
+<h4>Font Of Power IV -GCF-</h4>
 
 <i>Prerequisites: 13th Level, Font Of Power III</i>
 
 The maximum for your pool of chi points is increased to 16 points.
 
-<u>Font Of Power V -GCF-</u>
+<h4>Font Of Power V -GCF-</h4>
 
 <i>Prerequisites: 17th Level, Font Of Power IV</i>
 
 The maximum for your pool of chi points is increased to 20 points.
 
-<u>Font Of Power VI -GCF-</u>
+<h4>Font Of Power VI -GCF-</h4>
 
 <i>Prerequisites: 22nd Level, Font Of Power V</i>
 

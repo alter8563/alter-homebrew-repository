@@ -1,6 +1,6 @@
 <h1>List Of Class Feats</h1>
 
-<u>Planar Resonance -LCF-</u>
+<h4>Planar Resonance -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -8,7 +8,7 @@ When you get this class feat, you take a Planar Resonance Passive Effect that yo
 
 <h2>List Of Planar Resonance Passive Effects</h2>
 
-<u>Air</u>
+<h4>Air</h4>
 
 <i>Prerequisites: None</i>
 
@@ -16,7 +16,7 @@ Your jump distance is no longer halved due to you making a standing high jump, a
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Heart Of The Sky].</i>
 
-<u>Clarity</u>
+<h4>Clarity</h4>
 
 <i>Prerequisites: Empathetic Mind</i>
 
@@ -24,7 +24,7 @@ You are no longer prevented from telepathically communicating with creatures who
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Sympathetic Mind].</i>
 
-<u>Darkness</u>
+<h4>Darkness</h4>
 
 <i>Prerequisites: Night Vision</i>
 
@@ -32,7 +32,7 @@ Your darkvision is no longer impeded by magical darkness.
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Umbral Vision].</i>
 
-<u>Earth</u>
+<h4>Earth</h4>
 
 <i>Prerequisites: None</i>
 
@@ -42,7 +42,7 @@ You can also now move along walls and ceilings, without requiring both of your e
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Heart Of The Land].</i>
 
-<u>Insanity</u>
+<h4>Insanity</h4>
 
 <i>Prerequisites: Empathetic Mind</i>
 
@@ -54,7 +54,7 @@ On a failure, that creature gains a long-term madness effect.
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Antipathetic Mind].</i>
 
-<u>Life</u>
+<h4>Life</h4>
 
 <i>Prerequisites: None</i>
 
@@ -62,7 +62,7 @@ Now when you use an effect to make a creature regain hit points, you increase th
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Marvelous Healing].</i>
 
-<u>Protection</u>
+<h4>Protection</h4>
 
 <i>Prerequisites: None</i>
 
@@ -74,7 +74,7 @@ And if the damage type that you had chosen was poison, you also now have advanta
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Elemental Resistance].</i>
 
-<u>Time</u>
+<h4>Time</h4>
 
 <i>Prerequisites: Night Vision</i>
 
@@ -82,7 +82,7 @@ You now add your Constitution modifier to your initiative rolls.
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Chronal Vision].</i>
 
-<u>Water</u>
+<h4>Water</h4>
 
 <i>Prerequisites: None</i>
 

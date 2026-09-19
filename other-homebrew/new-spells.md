@@ -1,6 +1,6 @@
 <h1>Cantrips</h1>
 
-<u>Bloody Spear</u>
+<h4>Bloody Spear</h4>
 
 <i>Evocation Cantrip</i>
 
@@ -17,9 +17,9 @@ You make a ranged spell attack on a creature that you can see within range. On a
 
 <b><i>At Higher Levels.</i></b> The damage of this spell increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-<b><i>Spell Lists.</i></b> Cleric, Warlock
+<b>Spell Lists:</b> Cleric, Warlock
 
-<u>Divine Lance</u>
+<h4>Divine Lance</h4>
 
 <i>Evocation Cantrip</i>
 
@@ -36,9 +36,9 @@ You make a ranged spell attack on a creature that you can see within range. On a
 
 <b><i>At Higher Levels.</i></b> The damage of this spell increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-<b><i>Spell Lists.</i></b> Cleric
+<b>Spell Lists:</b> Cleric
 
-<u>Electric Arc</u>
+<h4>Electric Arc</h4>
 
 <i>Evocation Cantrip</i>
 
@@ -55,9 +55,9 @@ You make a ranged spell attack on a creature that you can see within range. On a
 
 <b><i>At Higher Levels.</i></b> The damage of this spell increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-<b><i>Spell Lists.</i></b> Artificer, Sorcerer, Wizard
+<b>Spell Lists:</b> Artificer, Sorcerer, Wizard
 
-<u>Natural Blast</u>
+<h4>Natural Blast</h4>
 
 <i>Transmutation Cantrip</i>
 
@@ -74,9 +74,9 @@ You make a ranged spell attack on a creature that you can see within range. On a
 
 <b><i>At Higher Levels.</i></b> The damage of this spell increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-<b><i>Spell Lists.</i></b> Druid
+<b>Spell Lists:</b> Druid
 
-<u>Power Beam</u>
+<h4>Power Beam</h4>
 
 <i>Evocation Cantrip</i>
 
@@ -93,9 +93,9 @@ You make a ranged spell attack on a creature that you can see within range. On a
 
 <b><i>At Higher Levels.</i></b> The damage of this spell increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
-<u>Telekinetic Yank</u>
+<h4>Telekinetic Yank</h4>
 
 <i>Transmutation cantrip</i>
 
@@ -114,11 +114,11 @@ If the creature is restrained due to the effect of <i>Telekinesis</i><sup><i>PHB
 
 <b><i>At Higher Levels.</i></b> The damage of this spell increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
 <h1>1st Level</h1>
 
-<u>Arcane Smite</u>
+<h4>Arcane Smite</h4>
 
 <i>1st-Level Evocation</i>
 
@@ -135,9 +135,9 @@ The next time that you hit a creature with a weapon attack before this spell end
 
 <b><i>At Higher Levels.</i></b> When you cast this spell with a spell slot of 2nd level or higher, the extra damage increases by 1d8 for each slot level above 1st.
 
-<b><i>Spell Lists.</i></b> Artificer, Paladin, Ranger
+<b>Spell Lists:</b> Artificer, Paladin, Ranger
 
-<u>Binding Chains</u>
+<h4>Binding Chains</h4>
 
 <i>1st-Level Conjuration</i>
 
@@ -152,9 +152,9 @@ You target a creature that you can see within range, and then you have them make
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each spell slot level above 1st. Those creatures must be within 30 feet of each other when you target them.
 
-<b><i>Spell Lists.</i></b> Cleric, Druid, Sorcerer, Warlock, Wizard
+<b>Spell Lists.</b> Cleric, Druid, Sorcerer, Warlock, Wizard
 
-<u>Primal Smite</u>
+<h4>Primal Smite</h4>
 
 <i>1st-Level Transmutation</i>
 
@@ -169,9 +169,9 @@ The next time that you hit a creature with a weapon attack during the duration o
 
 <b><i>At Higher Levels.</i></b> When you cast this spell with a spell slot of 2nd level or higher, the extra damage increases by 1d4 for each slot level above 1st.
 
-<b><i>Spell Lists.</i></b> Artificer, Paladin, Ranger
+<b>Spell Lists:</b> Artificer, Paladin, Ranger
 
-<u>Vanishing Dodge</u>
+<h4>Vanishing Dodge</h4>
 
 <i>1st-Level Conjuration</i>
 
@@ -184,11 +184,11 @@ The next time that you hit a creature with a weapon attack during the duration o
 
 You teleport yourself to an unoccupied space that you can see within 30 feet of you.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
 <h1>2nd Level</h1>
 
-<u>Power Beam Volley</u>
+<h4>Power Beam Volley</h4>
 
 <i>2nd-Level Evocation</i>
 
@@ -205,9 +205,9 @@ You make a ranged spell attack on creatures that you can within range for each b
 
 <b><i>At Higher Levels.</i></b> When you cast this spell with a spell slot of 3rd level or higher, you fire one additional beam for each slot level above 2nd.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
-<u>Soar</u>
+<h4>Soar</h4>
 
 <i>2nd-Level Transmutation</i>
 
@@ -222,9 +222,9 @@ For the duration of this spell, you have a flying speed of 30 feet.
 
 When this spell ends, you fall if you are still aloft, unless you can stop that fall.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
-<u>Telekinetic Slash</u>
+<h4>Telekinetic Slash</h4>
 
 <i>2nd-Level Transmutation</i>
 
@@ -241,9 +241,9 @@ You make a ranged spell attack on a creature that you can see within range. On a
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 3rd level or higher, its damage increases by 2d8 per slot level above 2nd.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
-<u>Warp Strike</u>
+<h4>Warp Strike</h4>
 
 <i>2nd-Level Conjuration</i>
 
@@ -256,11 +256,11 @@ You make a ranged spell attack on a creature that you can see within range. On a
 
 You teleport yourself to an unoccupied space that you can see within 30 feet of you, and then you can make a melee weapon attack on another creature that you can see within the melee range of your unarmed strike or your melee weapon.
 
-<b><i>Spell Lists.</i></b> Artificer, Paladin, Ranger
+<b>Spell Lists:</b> Artificer, Paladin, Ranger
 
 <h1>3rd Level</h1>
 
-<u>Elemental Aura</u>
+<h4>Elemental Aura</h4>
 
 <i>3rd-Level Evocation</i>
 
@@ -277,9 +277,9 @@ When you cast this spell, you choose one of the following damage types: acid, co
 
 When an affected creature enters the area of that aura for the first time on a turn or starts their turn there, they have to make a Dexterity saving throw. That creature receives 2d8 of the chosen damage type on a failed save, and they receive half as much damage on a successful save.
 
-<b><i>Spell Lists.</i></b> Artificer, Sorcerer, Wizard
+<b>Spell Lists:</b> Artificer, Sorcerer, Wizard
 
-<u>Full Power Beam</u>
+<h4>Full Power Beam</h4>
 
 <i>3rd-Level Evocation</i>
 
@@ -296,9 +296,9 @@ You have every creature in a 120-foot line make a Constitution saving throw. A c
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 4th level or higher, its damage increases by 2d6 per slot level above 3rd.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
-<u>Natural Aura</u>
+<h4>Natural Aura</h4>
 
 <i>3rd-Level Transmutation</i>
 
@@ -315,9 +315,9 @@ When you cast this spell, you can designate any number of creatures that you can
 
 The speed of an affected creature in the area of that aura is halved. And when an affected creature enters the area of that aura for the first time on a turn or starts their turn there, they have to make a Strength saving throw. On a failed save, that creature is knocked prone.
 
-<b><i>Spell Lists.</i></b> Druid, Ranger
+<b>Spell Lists:</b> Druid, Ranger
 
-<u>Telekinetic Crush</u>
+<h4>Telekinetic Crush</h4>
 
 <i>3rd-Level Transmutation</i>
 
@@ -336,11 +336,11 @@ If that creature is restrained due to the effect of <i>Telekinesis</i><sup><i>PH
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 4th level or higher, its damage increases by 2d8 per slot level above 3rd.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
 <h1>4th Level</h1>
 
-<u>Telekinetic Pierce</u>
+<h4>Telekinetic Pierce</h4>
 
 <i>4th-Level Transmutation</i>
 
@@ -357,11 +357,11 @@ You target a creature that you can see within range, and then you have them make
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 5th level or higher, its damage increases by 2d8 per slot level above 4th.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
 <h1>5th Level</h1>
 
-<u>Full Power Explosion</u>
+<h4>Full Power Explosion</h4>
 
 <i>5th-Level Evocation</i>
 
@@ -378,9 +378,9 @@ You have every other creature in a 30-foot radius around yourself make a Constit
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 6th level or higher, its damage increases by 2d6 per slot level above 5th.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
-<u>Lightning Storm</u>
+<h4>Lightning Storm</h4>
 
 <i>5th-Level Evocation</i>
 
@@ -397,7 +397,7 @@ You choose a space that you can see within range, and then you have every creatu
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 4th level or higher, its damage increases by 2d8 per slot level above 3rd.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
 <h1>6th Level</h1>
 

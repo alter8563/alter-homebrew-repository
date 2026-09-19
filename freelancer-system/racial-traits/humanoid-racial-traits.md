@@ -1,6 +1,6 @@
 <h1>List Of Racial Traits</h1>
 
-<u>Determination -6 Points-</u>
+<h4>Determination -6 Points-</h4>
 
 <i>Prerequisites: Creature Type (Humanoid)</i>
 

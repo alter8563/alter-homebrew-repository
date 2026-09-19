@@ -1,12 +1,12 @@
 <h1>List Of Racial Traits</h1>
 
-<u>Immutable Form -2 Points-</u>
+<h4>Immutable Form -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Construct)</i>
 
 You now have immunity to being petrified.
 
-<u>Integrated Armor -2 Points-</u>
+<h4>Integrated Armor -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Construct)</i>
 

@@ -1,6 +1,6 @@
 <h1>List Of Racial Traits</h1>
 
-<u>Antipathetic Mind -2 Points-</u>
+<h4>Antipathetic Mind -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any), Telepathy</i>
 
@@ -12,7 +12,7 @@ On a failure, that creature gains a long-term madness effect.
 
 <i>Restrictions: You must not have [Chronal Vision], [Elemental Resistance], [Heart Of The Land], [Heart Of The Sea], [Heart Of The Sky], [Marvelous Healing], [Sympathetic Mind], or [Umbral Vision]. And if you are using the Freelancer class, you must not have [Planar Resonance (Insanity)].</i>
 
-<u>Brutal Aggression -4 Points-</u>
+<h4>Brutal Aggression -4 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -22,7 +22,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 <i>Restrictions: You must not have [Furious Drive].</i>
 
-<u>Chronal Vision -2 Points-</u>
+<h4>Chronal Vision -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any), Darkvision</i>
 
@@ -30,7 +30,7 @@ You now add your Constitution modifier to your initiative rolls.
 
 <i>Restrictions: You must not have [Antipathetic Mind], [Elemental Resistance], [Heart Of The Land], [Heart Of The Sea], [Heart Of The Sky], [Marvelous Healing], [Sympathetic Mind], or [Umbral Vision]. And if you are using the Freelancer class, you must not have [Planar Resonance (Time)].</i>
 
-<u>Climbing -2 Points-</u>
+<h4>Climbing -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -38,13 +38,13 @@ You now have a climbing speed equal to your walking speed.
 
 <i>Restrictions: If you are using the Freelancer class, you must not have [Climber].</i>
 
-<u>Darkvision -4 Points-</u>
+<h4>Darkvision -4 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
 You now have darkvision with a range of 60 feet.
 
-<u>Durable -6 Points-</u>
+<h4>Durable -6 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -54,7 +54,7 @@ And now when you gain a level in a class, your hit point maximum is increased by
 
 <i>Restrictions: You must not have [Innate Spellcasting] or [Merciless].</i>
 
-<u>Elemental Blow -2 Points-</u>
+<h4>Elemental Blow -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -64,7 +64,7 @@ Now if you hit with an unarmed strike, you can inflict the chosen damage type in
 
 <i>Restrictions: You must not have [Healing Touch] or [Natural Blow]. And if you are using the Freelancer class, you must not have [Destructive Blow].</i>
 
-<u>Elemental Fury -2 Points-</u>
+<h4>Elemental Fury -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -74,7 +74,7 @@ Now if you roll for inflicting damage of the chosen damage type, you can treat a
 
 <i>Restrictions: If you are using the Freelancer class, you must not have [Destructive Fury].</i>
 
-<u>Elemental Resistance -2 Points-</u>
+<h4>Elemental Resistance -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -86,13 +86,13 @@ And if the damage type that you had chosen was poison, you also now have advanta
 
 <i>Restrictions: You must not have [Antipathetic Mind], [Chronal Vision], [Heart Of The Land], [Heart Of The Sea], [Heart Of The Sky], [Marvelous Healing], [Sympathetic Mind], or [Umbral Vision]. And if you are using the Freelancer class, you must not have [Planar Resonance (Protection)].</i>
 
-<u>Firearm Proficiency -2 Points-</u>
+<h4>Firearm Proficiency -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
 You gain proficiency with firearms.
 
-<u>Furious Drive -4 Points-</u>
+<h4>Furious Drive -4 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -102,7 +102,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 <i>Prerequisites: You must not have [Brutal Aggression].</i>
 
-<u>Gunner -2 Points-</u>
+<h4>Gunner -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any), Firearm Proficiency</i>
 
@@ -112,7 +112,7 @@ You can also now ignore the two-handed property of firearms.
 
 <i>Restrictions: If you are using the Freelancer class, you must not have [Cannoneer].</i>
 
-<u>Healing Pulse -2 Points-</u>
+<h4>Healing Pulse -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -120,7 +120,7 @@ Now if you roll for making a creature regain hit points, you can treat any resul
 
 <i>Restrictions: If you are using the Freelancer class, you must not have [Cleansing Pulse].</i>
 
-<u>Healing Touch -2 Points-</u>
+<h4>Healing Touch -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -130,7 +130,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 <i>Restrictions: You must not have [Elemental Blow] or [Natural Blow]. And if you are using the Freelancer class, you must not have [Cleansing Touch].</i>
 
-<u>Heart Of The Land -2 Points-</u>
+<h4>Heart Of The Land -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -140,7 +140,7 @@ You can also now move along walls and ceilings, without requiring both of your e
 
 <i>Restrictions: You must not have [Antipathetic Mind], [Chronal Vision], [Elemental Resistance], [Heart Of The Sea], [Heart Of The Sky], [Marvelous Healing], [Sympathetic Mind], or [Umbral Vision]. And if you are using the Freelancer class, you must not have [Planar Resonance (Earth)].</i>
 
-<u>Heart Of The Sea -2 Points-</u>
+<h4>Heart Of The Sea -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -150,7 +150,7 @@ You also now have immunity to damage from water pressure.
 
 <i>Restrictions: You must not have [Antipathetic Mind], [Chronal Vision], [Elemental Resistance], [Heart Of The Land], [Heart Of The Sky], [Marvelous Healing], [Sympathetic Mind], or [Umbral Vision]. And if you are using the Freelancer class, you must not have [Planar Resonance (Water)].</i>
 
-<u>Heart Of The Sky -2 Points-</u>
+<h4>Heart Of The Sky -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -158,7 +158,7 @@ Your jump distance is no longer halved due to you making a standing high jump, a
 
 <i>Restrictions: You must not have [Antipathetic Mind], [Chronal Vision], [Elemental Resistance], [Heart Of The Land], [Heart Of The Sea], [Marvelous Healing], [Sympathetic Mind], or [Umbral Vision]. And if you are using the Freelancer class, you must not have [Planar Resonance (Air)].</i>
 
-<u>Innate Spellcasting -6 Points-</u>
+<h4>Innate Spellcasting -6 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -170,7 +170,7 @@ Your spellcasting ability for these spells is Intelligence, Wisdom, or Charisma 
 
 <i>Restrictions: You must not have [Durable] or [Merciless].</i>
 
-<u>Magic Resistance -8 Points-</u>
+<h4>Magic Resistance -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -178,13 +178,13 @@ You now have advantage on saving throws against spells.
 
 <i>Restrictions: You must be using the Legendary Custom Race option.</i>
 
-<u>Martial Weapon Proficiency -2 Points-</u>
+<h4>Martial Weapon Proficiency -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any), Simple Weapon Proficiency</i>
 
 You gain proficiency with martial weapons.
 
-<u>Marvelous Healing -2 Points-</u>
+<h4>Marvelous Healing -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -192,7 +192,7 @@ Now when you use an effect to make a creature regain hit points, you increase th
 
 <i>Restrictions: You must not have [Antipathetic Mind], [Chronal Vision], [Elemental Resistance], [Heart Of The Land], [Heart Of The Sea], [Heart Of The Sky], [Sympathetic Mind], or [Umbral Vision]. And if you are using the Freelancer class, you must not have [Planar Resonance (Life)].</i>
 
-<u>Merciless -6 Points-</u>
+<h4>Merciless -6 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -200,7 +200,7 @@ The critical hit threshold for your weapon attacks is now decreased by 1.
 
 <i>Restrictions: You must not have [Durable] or [Innate Spellcasting].</i>
 
-<u>Natural Blow -2 Points-</u>
+<h4>Natural Blow -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -208,7 +208,7 @@ Now if you hit with an unarmed strike, you can inflict piercing damage or slashi
 
 <i>Restrictions: You must not have [Elemental Blow] or [Healing Touch]. And if you are using the Freelancer class, you must not have [Sharpened Blow].</i>
 
-<u>Nimble -2 Points-</u>
+<h4>Nimble -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -216,7 +216,7 @@ Your jump distance is now tripled.
 
 <i>Restrictions: If you are using the Freelancer class, you must not have [Agile].</i>
 
-<u>Powerful Build -1 Point-</u>
+<h4>Powerful Build -1 Point-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -224,7 +224,7 @@ You now count as one size larger for determining your carrying capacity and the 
 
 <i>Restrictions: You must not have [Equine Body].</i>
 
-<u>Regeneration -8 Points-</u>
+<h4>Regeneration -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -238,31 +238,31 @@ But now when you finish a long rest during which you slept in a suit of medium a
 
 <i>Restrictions: You must be using the Legendary Custom Race option.</i>
 
-<u>Shield Proficiency -4 Points-</u>
+<h4>Shield Proficiency -4 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
 You gain proficiency with shields.
 
-<u>Simple Weapon Proficiency -2 Points-</u>
+<h4>Simple Weapon Proficiency -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
 You gain proficiency with simple weapons.
 
-<u>Skill Expertise -2 Points-</u>
+<h4>Skill Expertise -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any), Skill Proficiency</i>
 
 You gain expertise with the skill that you gained proficiency with due to the effect of [Skill Proficiency].
 
-<u>Skill Proficiency -2 Points-</u>
+<h4>Skill Proficiency -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
 You gain proficiency with one skill.
 
-<u>Swimming -2 Points-</u>
+<h4>Swimming -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
@@ -270,7 +270,7 @@ You now have a swimming speed equal to your walking speed.
 
 <i>Restrictions: If you are using the Freelancer class, you must not have [Swimmer].</i>
 
-<u>Sympathetic Mind -2 Points-</u>
+<h4>Sympathetic Mind -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any), Telepathy</i>
 
@@ -278,13 +278,13 @@ You are no longer prevented from telepathically communicating with creatures who
 
 <i>Restrictions: You must not have [Antipathetic Mind], [Chronal Vision], [Elemental Resistance], [Heart Of The Land], [Heart Of The Sea], [Heart Of The Sky], [Marvelous Healing], or [Umbral Vision]. And if you are using the Freelancer class, you must not have [Planar Resonance (Clarity)].</i>
 
-<u>Telepathy -4 Points-</u>
+<h4>Telepathy -4 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
 You now have telepathy with a range of 60 feet.
 
-<u>Umbral Vision -2 Points-</u>
+<h4>Umbral Vision -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any), Darkvision</i>
 
@@ -292,13 +292,13 @@ Your darkvision is no longer impeded by magical darkness.
 
 <i>Restrictions: You must not have [Antipathetic Mind], [Chronal Vision], [Elemental Resistance], [Heart Of The Land], [Heart Of The Sea], [Heart Of The Sky], [Marvelous Healing], or [Sympathetic Mind]. And if you are using the Freelancer class, you must not have [Planar Resonance (Darkness)].</i>
 
-<u>Vocation Proficiency -2 Points-</u>
+<h4>Vocation Proficiency -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 
 You gain proficiency with one tool, and then you learn one new standard language or exotic language.
 
-<u>Walking Speed Increase -8 Points-</u>
+<h4>Walking Speed Increase -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Any)</i>
 

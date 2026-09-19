@@ -1,6 +1,6 @@
 <h1>List Of Racial Traits</h1>
 
-<u>Gelatinous Body -3 Points-</u>
+<h4>Gelatinous Body -3 Points-</h4>
 
 <i>Prerequisites: Creature Type (Ooze)</i>
 

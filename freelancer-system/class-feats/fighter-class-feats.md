@@ -1,6 +1,6 @@
 <h1>List Of Class Feats</h1>
 
-<u>Combat Maneuver I -GCF-</u>
+<h4>Combat Maneuver I -GCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -12,33 +12,33 @@ And now if you gain a level in this class, you can replace a maneuver that you k
 
 <i>Restrictions: You must not have [Arcane Initiate].</i>
 
-List Of Maneuvers: <a href="../other-homebrew/maneuvers.md">Page Link</a>
+List Of Maneuvers: <a href="../../other-homebrew/maneuvers.md">Page Link</a>
 
-<u>Combat Maneuver II -GCF-</u>
+<h4>Combat Maneuver II -GCF-</h4>
 
 <i>Prerequisites: 5th Level, Combat Maneuver I</i>
 
 The maximum for your pool of maneuver points is increased to 8 points. You are also now capable of performing 2nd level maneuvers, and you learn two new maneuvers that you are capable of performing.
 
-<u>Combat Maneuver III -GCF-</u>
+<h4>Combat Maneuver III -GCF-</h4>
 
 <i>Prerequisites: 9th Level, Combat Maneuver II</i>
 
 The maximum for your pool of maneuver points is increased to 12 points. You are also now capable of performing 3rd level maneuvers, and you learn two new maneuvers that you are capable of performing.
 
-<u>Combat Maneuver IV -GCF-</u>
+<h4>Combat Maneuver IV -GCF-</h4>
 
 <i>Prerequisites: 13th Level, Combat Maneuver III</i>
 
 The maximum for your pool of maneuver points is increased to 16 points. You are also now capable of performing 4th level maneuvers, and you learn two new maneuvers that you are capable of performing.
 
-<u>Combat Maneuver V -GCF-</u>
+<h4>Combat Maneuver V -GCF-</h4>
 
 <i>Prerequisites: 17th Level, Combat Maneuver IV</i>
 
 The maximum for your pool of maneuver points is increased to 20 points. You are also now capable of performing 5th level maneuvers, and you learn two new maneuvers that you are capable of performing.
 
-<u>Perfect Technique -GCF-</u>
+<h4>Perfect Technique -GCF-</h4>
 
 <i>Prerequisites: 22nd Level, Combat Maneuver V</i>
 

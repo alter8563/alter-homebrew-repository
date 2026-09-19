@@ -8,13 +8,13 @@ A player character can only take each prestige class feat once, and they can onl
 
 <h1>List Of Prestige Class Feats</h1>
 
-<u>Acute Senses -PCF-</u>
+<h4>Acute Senses -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Elemental/Ooze/Plant/Undead), 1st Level, Keen Senses</i>
 
 Now while you possess your animalistic body parts, you have a +5 bonus to your Wisdom (Perception) checks.
 
-<u>Alien Tentacle -PCF-</u>
+<h4>Alien Tentacle -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 9th Level, Eldritch Mind</i>
 
@@ -28,7 +28,7 @@ This weapon attack inflicts bludgeoning damage on a hit, and its damage is equal
 
 That tentacle lasts until you dismiss it yourself, fall unconscious, or die.
 
-<u>Arcane Barrier -PCF-</u>
+<h4>Arcane Barrier -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -38,7 +38,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 <i>Restrictions: You must not have [Dark Curse].</i>
 
-<u>Bountiful Luck -PCF-</u>
+<h4>Bountiful Luck -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -48,7 +48,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 <i>Restrictions: You must not have [Relentless Endurance].</i>
 
-<u>Ceaseless Wrath -PCF-</u>
+<h4>Ceaseless Wrath -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Primal Rage IV, Endless Rage, Indomitable Might</i>
 
@@ -60,13 +60,13 @@ But if you have 0 hit points while your Primal Rage is active, you still have to
 
 And if you would die due to you failing three death saving throws while your Primal Rage is active, you do not die until that Primal Rage ends.
 
-<u>Circle Morph -PCF-</u>
+<h4>Circle Morph -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Wild Shape IV, Primeval Shape</i>
 
 Your Wild Shape no longer prevents you from casting spells, and you can now provide the components for spells that you cast regardless of the nature of your beast form.
 
-<u>Control Undead -PCF-</u>
+<h4>Control Undead -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 9th Level, Undead Mob</i>
 
@@ -76,7 +76,7 @@ On a failure, they fall under your control for 24 hours. But an undead whose lev
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all of your expended uses when you finish a long rest.
 
-<u>Convergent Future -PCF-</u>
+<h4>Convergent Future -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 9th Level, Temporal Vision</i>
 
@@ -84,7 +84,7 @@ Now if you or another creature that you can see within 30 of you makes an attack
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all of your expended uses when you finish a long rest.
 
-<u>Cunning Blow -PCF-</u>
+<h4>Cunning Blow -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -94,7 +94,7 @@ And now during your first turn of any combat, you have advantage on attack rolls
 
 <i>Restrictions: You must not have [Indomitable Might].</i>
 
-<u>Dark Curse -PCF-</u>
+<h4>Dark Curse -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -108,7 +108,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 <i>Restrictions: You must not have [Arcane Barrier].</i>
 
-<u>Deadly Hit -PCF-</u>
+<h4>Deadly Hit -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Sneak Attack I</i>
 
@@ -116,13 +116,13 @@ You now have advantage on attack rolls made on creatures who are within 5 feet o
 
 <i>Restrictions: You must not have [Endless Rage].</i>
 
-<u>Decisive Talent -PCF-</u>
+<h4>Decisive Talent -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Jack Of All Trades</i>
 
 Now if you make an ability check for a skill or a tool that you are proficient with, you can treat any results of 11 or lower as 12 instead.
 
-<u>Defensive Magic -PCF-</u>
+<h4>Defensive Magic -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Magical Aura I</i>
 
@@ -130,7 +130,7 @@ The range of your Magical Aura is now increased to 30 feet around you.
 
 <i>Restrictions: You must not have [Exceptional Tactician].</i>
 
-<u>Destroy Undead -PCF-</u>
+<h4>Destroy Undead -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 9th Level, Spiritual Ward</i>
 
@@ -140,25 +140,25 @@ On a failure, they are turned by you for 1 minute or until they receive damage. 
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all of your expended uses when you finish a long rest.
 
-<u>Divergent Future -PCF-</u>
+<h4>Divergent Future -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Convergent Future</i>
 
 Now if you or another creature that you can see within 30 of you makes an attack roll, ability check, or saving throw, you can expend one use of [Convergent Future] with your reaction to make that attack roll, ability check, or saving throw a 5 or a 15.
 
-<u>Divine Vision -PCF-</u>
+<h4>Divine Vision -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Godly Form</i>
 
 You now have truesight with a range of 120 feet.
 
-<u>Draconic Torrent -PCF-</u>
+<h4>Draconic Torrent -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Dragon/Humanoid), 1st Level, Draconic Breath</i>
 
 The range of your [Draconic Breath] is now changed from a 20-foot cone to a 60-foot cone, and its damage is now increased by 2d8.
 
-<u>Eldritch Mind -PCF-</u>
+<h4>Eldritch Mind -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Antipathetic Mind/Planar Resonance (Insanity)</i>
 
@@ -166,7 +166,7 @@ The range of your telepathy is now increased by 60 feet.
 
 You also now have immunity to the effects of insanity and madness.
 
-<u>Elemental Immunity -PCF-</u>
+<h4>Elemental Immunity -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Elemental Resistance/Planar Resonance (Protection)</i>
 
@@ -174,7 +174,7 @@ You now have immunity to the damage type that you had chosen for [Elemental Resi
 
 And if the damage type that you had chosen for [Elemental Resistance] or [Planar Resonance (Protection)] was poison, you also now have immunity to being poisoned.
 
-<u>Elemental Onslaught -PCF-</u>
+<h4>Elemental Onslaught -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Elemental Rampage</i>
 
@@ -182,7 +182,7 @@ You can now expend one use of [Elemental Rampage] with your bonus action to have
 
 They receive damage of the damage type that you have immunity to due to the effect of [Elemental Immunity] equal to 1d8 + your modifier for the ability score that you had chosen for [Elemental Rampage] + your level on a failed save, and they receive half as much damage on a successful save.
 
-<u>Elemental Rampage -PCF-</u>
+<h4>Elemental Rampage -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 9th Level, Elemental Immunity</i>
 
@@ -192,7 +192,7 @@ They receive damage of the damage type that you have immunity to due to the effe
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all of your expended uses when you finish a long rest.
 
-<u>Endless Rage -PCF-</u>
+<h4>Endless Rage -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Primal Rage I</i>
 
@@ -200,7 +200,7 @@ Your Primal Rage no longer ends early at the end of your turn due to you not inf
 
 <i>Restrictions: You must not have [Deadly Hit].</i>
 
-<u>Enemy Slayer -PCF-</u>
+<h4>Enemy Slayer -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Favored Prey I</i>
 
@@ -214,7 +214,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 <i>Restrictions: You must not have [Primeval Shape].</i>
 
-<u>Ethereal Jaunt -PCF-</u>
+<h4>Ethereal Jaunt -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Fairy Step</i>
 
@@ -222,7 +222,7 @@ Now while you are in a plane which borders the Ethereal Plane, you can expend on
 
 And now while you are within the Ethereal Plane, you can expend one use of [Fairy Step] with your action to transport yourself into the plane which borders it.
 
-<u>Ethereal Sight -PCF-</u>
+<h4>Ethereal Sight -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level</i>
 
@@ -232,7 +232,7 @@ You can also now see into the Ethereal Plane from within other planes which bord
 
 <i>Restrictions: You must not have [Mechanical Genius], [Spiritual Ward], or [Undead Mob].</i>
 
-<u>Exceptional Prodigy -PCF-</u>
+<h4>Exceptional Prodigy -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Prodigious Intuition I</i>
 
@@ -240,7 +240,7 @@ You now regain all of your spent intuition dice when you finish a short rest or 
 
 <i>Restrictions: You must not have [Reserve Magic].</i>
 
-<u>Exceptional Tactician -PCF-</u>
+<h4>Exceptional Tactician -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Tactical Support I</i>
 
@@ -248,13 +248,13 @@ You now regain all of your spent support dice when you finish a short rest or a 
 
 <i>Restrictions: You must not have [Defensive Magic].</i>
 
-<u>Faded Recollection -PCF-</u>
+<h4>Faded Recollection -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Undead), 1st Level, Hazy Memories</i>
 
 You can now use the effect of [Hazy Memories] a number of times equal to your proficiency bonus instead of just one time.
 
-<u>Fairy Step -PCF-</u>
+<h4>Fairy Step -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 9th Level, Ethereal Sight</i>
 
@@ -262,13 +262,13 @@ You can now use your bonus action to teleport yourself to an unoccupied space th
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all of your expended uses when you finish a long rest.
 
-<u>Flawless Assassination -PCF-</u>
+<h4>Flawless Assassination -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Sneak Attack IV, Deadly Hit, Cunning Blow</i>
 
 Now during your first turn of any combat, you automatically score a critical hit on any creatures that you hit during that turn.
 
-<u>Gargantuan Form -PCF-</u>
+<h4>Gargantuan Form -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Giant/Humanoid), 1st Level, Huge Form</i>
 
@@ -280,7 +280,7 @@ Now when you use the effect of [Huge Form], you increase your size category to g
     <li>You have a -3 penalty to your AC.</li>
 </ul>
 
-<u>Ghoulish Servitude -PCF-</u>
+<h4>Ghoulish Servitude -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Undead), 1st Level, Fangs</i>
 
@@ -290,7 +290,7 @@ And now if you kill a humanoid with your fangs, you can make them rise as a <i>z
 
 You can only have a certain number of <i>zombies</i><sup><i>MM</i></sup> created with this feature, up to a maximum equal to your proficiency bonus - 1.
 
-<u>Godly Form -PCF-</u>
+<h4>Godly Form -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 9th Level, Luminous Vision</i>
 
@@ -305,43 +305,43 @@ Your Godly Form lasts for 10 minutes or until you end it yourself, fall unconsci
 
 You can only use this feature one time, and you regain all of your expended uses when you finish a short rest or a long rest.
 
-<u>Hardy Shell -PCF-</u>
+<h4>Hardy Shell -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Humanoid), 1st Level, Robust Shell</i>
 
 You can now use your shell to decrease any bludgeoning damage, piercing damage, or slashing damage that you receive by a number equal to your proficiency bonus, provided you are not wearing a suit of armor.
 
-<u>Healing Flow -PCF-</u>
+<h4>Healing Flow -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 9th Level, Impressive Healing</i>
 
 Now when you use an effect to make a creature regain hit points, you increase the number of hit points that they regain by a number equal to 5.
 
-<u>Healing Stream -PCF-</u>
+<h4>Healing Stream -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Healing Flow</i>
 
 Now when you use an effect to make a creature regain hit points, you double the number of hit points that they regain.
 
-<u>Heinous Cleave -PCF-</u>
+<h4>Heinous Cleave -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Elemental/Ooze/Plant/Undead), 1st Level, Claws, Horns, Stinger</i>
 
 You now have a bonus to damage that you inflict with your claws, horns, and stinger equal to your proficiency bonus - 1.
 
-<u>Imaginary Grasp -PCF-</u>
+<h4>Imaginary Grasp -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Mental Sense</i>
 
 You are now permanently under the effects of <i>Telekinesis</i><sup><i>PHB</i></sup>, and its range for you is now doubled. Your spellcasting ability for this spell is the same one that you had chosen for [Mental Sense].
 
-<u>Impressive Healing -PCF-</u>
+<h4>Impressive Healing -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Marvelous Healing/Planar Resonance (Life)</i>
 
 Now when you use an effect to make a creature regain hit points, you increase the number of hit points that they regain by a number equal to your proficiency bonus.
 
-<u>Improved Defense -PCF-</u>
+<h4>Improved Defense -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -349,7 +349,7 @@ You now have a +1 bonus to your AC.
 
 <i>Restrictions: You must not have [Improved Spellcasting].</i>
 
-<u>Improved Spellcasting -PCF-</u>
+<h4>Improved Spellcasting -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -357,7 +357,7 @@ You now have a +1 bonus to your spell attack rolls and your spell save DCs.
 
 <i>Restrictions: You must not have [Improved Defense].</i>
 
-<u>Indomitable Might -PCF-</u>
+<h4>Indomitable Might -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -367,7 +367,7 @@ You also no longer gain two failed death saves due to you rolling a 1 on a death
 
 <i>Restrictions: You must not have [Cunning Blow].</i>
 
-<u>Innate High Magic -PCF-</u>
+<h4>Innate High Magic -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 1st Level, Innate Spellcasting</i>
 
@@ -379,13 +379,13 @@ You can now use this feature to cast both of the chosen spells, but you can only
 
 Your spellcasting ability for these spells is the same ability score that you had chosen for [Innate Spellcasting].
 
-<u>Jack Of All Trades -PCF-</u>
+<h4>Jack Of All Trades -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 9th Level, Reliable Talent</i>
 
 You now have a +2 bonus to your ability checks made for skills and tools.
 
-<u>Luminous Vision -PCF-</u>
+<h4>Luminous Vision -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Umbral Vision/Planar Resonance (Darkness)</i>
 
@@ -393,7 +393,7 @@ The range of your darkvision is now increased by 60 feet.
 
 You can also now see in dim light that you see with your darkvision as if it were bright light.
 
-<u>Magical Emanation -PCF-</u>
+<h4>Magical Emanation -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Spellcasting I/Pact Spellcasting I, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -406,7 +406,7 @@ Now while you are concentrating on a spell, you gain the following benefits:
 
 <i>Restrictions: You must not have [Otherworldly Instinct] or [Supernatural Flight].</i>
 
-<u>Mechanical Genius -PCF-</u>
+<h4>Mechanical Genius -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level</i>
 
@@ -416,7 +416,7 @@ Mechanical objects are objects such as levers and switches which can be interact
 
 <i>Restrictions: You must not have [Ethereal Sight], [Spiritual Ward], or [Undead Mob].</i>
 
-<u>Mental Sense -PCF-</u>
+<h4>Mental Sense -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 9th Level, Psionic Mind</i>
 
@@ -426,13 +426,13 @@ Now if this spell would end due to you failing to probe deeper into the mind of 
 
 And now if this spell would end due to another creature overpowering it, you are prevented from attempting to probe deeper into the mind of another creature for 1 minute instead.
 
-<u>Natural Flight -PCF-</u>
+<h4>Natural Flight -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any Except For Elemental/Ooze/Plant/Undead), 1st Level, Wings</i>
 
 Now while you possess your wings, you have a flying speed equal to your walking speed. But if you already have a flying speed equal to your walking speed due to something other than your wings, your flying speed is increased by 30 feet instead.
 
-<u>Natural Onslaught -PCF-</u>
+<h4>Natural Onslaught -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Natural Rampage</i>
 
@@ -440,7 +440,7 @@ You can now expend one use of [Natural Rampage] with your bonus action to have e
 
 On a failure, a creature is pushed up to 20 feet away from you and knocked prone.
 
-<u>Natural Rampage -PCF-</u>
+<h4>Natural Rampage -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 9th Level, Soul Of The Land/Soul Of The Sea/Soul Of The Sky</i>
 
@@ -450,7 +450,7 @@ On a failure, they are pushed up to 20 feet away from you and knocked prone.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all of your expended uses when you finish a long rest.
 
-<u>Otherworldly Instinct -PCF-</u>
+<h4>Otherworldly Instinct -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -458,19 +458,19 @@ You now have two extra reactions that you can use per round, but you can only us
 
 <i>Restrictions: You must not have [Magical Emanation] or [Supernatural Flight].</i>
 
-<u>Perseverance -PCF-</u>
+<h4>Perseverance -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Humanoid), 1st Level, Determination</i>
 
 You can now use the effect of [Determination] a number of times equal to your proficiency bonus instead of just one time.
 
-<u>Pliable Form -PCF-</u>
+<h4>Pliable Form -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Elemental/Ooze), 1st Level, Amorphous Form</i>
 
 You can now move through spaces as narrow as 1 inch wide without squeezing even while you are holding, wearing, or carrying objects.
 
-<u>Primeval Shape -PCF-</u>
+<h4>Primeval Shape -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Wild Shape I</i>
 
@@ -478,19 +478,19 @@ You can now use your Wild Shape to polymorph yourself into beasts which have a s
 
 <i>Restrictions: You must not have [Enemy Slayer].</i>
 
-<u>Prodigious Veteran -PCF-</u>
+<h4>Prodigious Veteran -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Prodigious Intuition IV, Exceptional Prodigy, Improved Defense</i>
 
 Now if you spend one of your intuition dice and roll it, you can treat a result of 3 or lower as 4 instead.
 
-<u>Protective Essence -PCF-</u>
+<h4>Protective Essence -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Magical Aura IV, Defensive Magic, Improved Spellcasting</i>
 
 Now while you are not incapacitated, you and friendly creatures in your Magical Aura have a +5 bonus to saving throws against spells.
 
-<u>Psionic Mind -PCF-</u>
+<h4>Psionic Mind -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Sympathetic Mind/Planar Resonance (Clarity)</i>
 
@@ -498,7 +498,7 @@ The range of your telepathy is now increased by 60 feet.
 
 You can also now telepathically communicate with more than one other creature at a time.
 
-<u>Purge Undead -PCF-</u>
+<h4>Purge Undead -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Destroy Undead</i>
 
@@ -506,7 +506,7 @@ You can now use your bonus action to use the effect of [Destroy Undead].
 
 And now if an undead with a CR lower than double your proficiency bonus fails on their saving throw against the effect of your [Destroy Undead], they are then instantly destroyed.
 
-<u>Refined Knowledge -PCF-</u>
+<h4>Refined Knowledge -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Skill Mastery, Vocation Practice</i>
 
@@ -514,13 +514,13 @@ You gain proficiency with one skill, and then you gain expertise with one skill 
 
 You also gain proficiency with two tools, and then you learn two new standard languages or exotic languages.
 
-<u>Reinforced Armor -PCF-</u>
+<h4>Reinforced Armor -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Construct), 1st Level, Integrated Armor</i>
 
 Now while you are wearing a suit of armor, you have a +1 bonus to your AC.
 
-<u>Relentless Endurance -PCF-</u>
+<h4>Relentless Endurance -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -532,19 +532,19 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 <i>Restrictions: You must not have [Bountiful Luck].</i>
 
-<u>Reliable Talent -PCF-</u>
+<h4>Reliable Talent -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level</i>
 
 Now if you make an ability check for a skill or a tool that you are proficient with, you can treat any results of 7 or lower as 8 instead.
 
-<u>Remote Lock -PCF-</u>
+<h4>Remote Lock -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Remote Toggle</i>
 
 Now if another creature that you can see attempts to interact with a mechanical object that you can see within 30 feet of you, you can expend one use of [Remote Toggle] with your reaction to prevent that interaction from happening.
 
-<u>Remote Toggle -PCF-</u>
+<h4>Remote Toggle -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 9th Level, Mechanical Genius</i>
 
@@ -552,7 +552,7 @@ You can now use your bonus action to interact with a mechanical object that you 
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all of your expended uses when you finish a long rest.
 
-<u>Reserve Magic -PCF-</u>
+<h4>Reserve Magic -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Magical Research I</i>
 
@@ -560,31 +560,31 @@ Now if you finish a short rest, you can replace one prepared spell with one unpr
 
 <i>Restrictions: You must not have [Exceptional Prodigy].</i>
 
-<u>Skill Mastery -PCF-</u>
+<h4>Skill Mastery -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level</i>
 
 You gain proficiency with one skill, and then you gain expertise with one skill that you are proficient with.
 
-<u>Soul Of The Land -PCF-</u>
+<h4>Soul Of The Land -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Heart Of The Land/Planar Resonance (Earth)</i>
 
 You now have tremorsense with a range of 120 feet.
 
-<u>Soul Of The Sea -PCF-</u>
+<h4>Soul Of The Sea -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Heart Of The Sea/Planar Resonance (Water)</i>
 
 You can now move across any liquid surface as if it were a solid surface.
 
-<u>Soul Of The Sky -PCF-</u>
+<h4>Soul Of The Sky -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Heart Of The Sky/Planar Resonance (Air)</i>
 
 Your vision is no longer obscured by fog or similar gasses such as clouds or smoke.
 
-<u>Spell Formula -PCF-</u>
+<h4>Spell Formula -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Magical Research IV, Reserve Magic, Improved Spellcasting</i>
 
@@ -592,7 +592,7 @@ When you get this class feat, you choose one spell in your expanded spell list. 
 
 And if you replace the chosen spell from your expanded spell list, you must choose a different spell on your expanded spell list for the effect of this class feat.
 
-<u>Spiritual Ward -PCF-</u>
+<h4>Spiritual Ward -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level</i>
 
@@ -600,7 +600,7 @@ You can no longer be possessed unless you allow yourself to be.
 
 <i>Restrictions: You must not have [Ethereal Sight], [Mechanical Genius], or [Undead Mob].</i>
 
-<u>Supernatural Flight -PCF-</u>
+<h4>Supernatural Flight -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -608,19 +608,19 @@ You now have a flying speed equal to your walking speed, and you can now hover. 
 
 <i>Restrictions: You must not have [Magical Emanation] or [Otherworldly Instinct].</i>
 
-<u>Synthetic Armor -PCF-</u>
+<h4>Synthetic Armor -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Construct), 1st Level, Natural Armor</i>
 
 Now while you are not wearing a suit of armor, you have a +1 bonus to your AC.
 
-<u>Tactical Veteran -PCF-</u>
+<h4>Tactical Veteran -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Tactical Support IV, Exceptional Tactician, Improved Defense</i>
 
 Now if another creature spends one of your support dice and rolls it, they can treat a result of 3 or lower as 4 instead.
 
-<u>Temporal Vision -PCF- </u>
+<h4>Temporal Vision -PCF- </h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level, Chronal Vision/Planar Resonance (Time)</i>
 
@@ -628,13 +628,13 @@ The range of your darkvision is now increased by 60 feet.
 
 You also now have a +2 bonus to your initiative rolls.
 
-<u>Tenacious Hunter -PCF-</u>
+<h4>Tenacious Hunter -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Favored Prey IV, Enemy Slayer, Improved Defense</i>
 
 You can now expend one use of [Enemy Slayer] with your action to sense the presence and location of your Favored Prey within 2 miles of you.
 
-<u>Tiny Form -PCF-</u>
+<h4>Tiny Form -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Beast/Fey/Humanoid), 5th Level</i>
 
@@ -647,7 +647,7 @@ You can now use your action to decrease your size category to tiny, provided you
 
 This change lasts until you end it yourself, get your size category increased, fall unconscious, or die.
 
-<u>Tough -PCF-</u>
+<h4>Tough -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 1st Level, Durable</i>
 
@@ -655,13 +655,13 @@ When you get this class feat, your hit point maximum is increased by a number of
 
 And now when you gain a level in this class, your hit point maximum is increased by two points.
 
-<u>Uncanny Appearance -PCF-</u>
+<h4>Uncanny Appearance -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Elemental/Plant), 1st Level, False Appearance</i>
 
 Now if you are pretending to be an object at the start of a combat, you gain advantage on your initiative roll for that combat.
 
-<u>Undead Horde -PCF-</u>
+<h4>Undead Horde -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Control Undead</i>
 
@@ -673,7 +673,7 @@ Any undead under your control also now gains the following benefits:
     <li>That undead has a bonus to its attack rolls, ability checks, and saving throws equal to your proficiency bonus.</li>
 </ul>
 
-<u>Undead Mob -PCF-</u>
+<h4>Undead Mob -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level</i>
 
@@ -687,13 +687,13 @@ Any undead under your control now gains the following benefits:
 
 <i>Restrictions: You must not have [Ethereal Sight], [Mechanical Genius], or [Spiritual Ward].</i>
 
-<u>Unique Physiology -PCF-</u>
+<h4>Unique Physiology -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Aberration), 1st Level, Human Disguise</i>
 
 You no longer require food or water to survive. You also now have immunity to disease.
 
-<u>Unsettling Visage -PCF-</u>
+<h4>Unsettling Visage -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Monstrosity), 1st Level, Change Shape</i>
 
@@ -701,19 +701,19 @@ Now if another creature that you can see within 30 feet of you targets you for a
 
 But if you do so, your ability to use [Change Shape] is revealed to that creature.
 
-<u>Vicious -PCF-</u>
+<h4>Vicious -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 1st Level, Merciless</i>
 
 The critical hit threshold for your weapon attacks is now decreased by 1.
 
-<u>Vocation Practice -PCF-</u>
+<h4>Vocation Practice -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 5th Level</i>
 
 You gain proficiency with two tools, and then you learn two new standard languages or exotic languages.
 
-<u>Writhing Limbs -PCF-</u>
+<h4>Writhing Limbs -PCF-</h4>
 
 <i>Prerequisites: Creature Type (Any), 22nd Level, Alien Tentacle</i>
 

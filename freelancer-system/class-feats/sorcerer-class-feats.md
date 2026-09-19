@@ -1,6 +1,6 @@
 <h1>List Of Class Feats</h1>
 
-<u>Font Of Magic I -GCF-</u>
+<h4>Font Of Magic I -GCF-</h4>
 
 <i>Prerequisites: 3rd Level, Spellcasting I</i>
 
@@ -44,37 +44,37 @@ You regain all of your spent sorcery points when you finish a long rest.
     </td>
 </table>
 
-<u>Font Of Magic II -GCF-</u>
+<h4>Font Of Magic II -GCF-</h4>
 
 <i>Prerequisites: 5th Level, Font Of Magic I</i>
 
 The maximum for your pool of sorcery points is increased to 8 points.
 
-<u>Font Of Magic III -GCF-</u>
+<h4>Font Of Magic III -GCF-</h4>
 
 <i>Prerequisites: 9th Level, Font Of Magic II</i>
 
 The maximum for your pool of sorcery points is increased to 12 points.
 
-<u>Font Of Magic IV -GCF-</u>
+<h4>Font Of Magic IV -GCF-</h4>
 
 <i>Prerequisites: 13th Level, Font Of Magic III</i>
 
 The maximum for your pool of sorcery points is increased to 16 points.
 
-<u>Font Of Magic V -GCF-</u>
+<h4>Font Of Magic V -GCF-</h4>
 
 <i>Prerequisites: 17th Level, Font Of Magic IV</i>
 
 The maximum for your pool of sorcery points is increased to 20 points.
 
-<u>Font Of Magic VI -GCF-</u>
+<h4>Font Of Magic VI -GCF-</h4>
 
 <i>Prerequisites: 22nd Level, Font Of Magic V</i>
 
 The maximum for your pool of sorcery points is increased to 32 points.
 
-<u>Metamagic I -LCF-</u>
+<h4>Metamagic I -LCF-</h4>
 
 <i>Prerequisites: 3rd Level, Font Of Magic I</i>
 
@@ -84,7 +84,7 @@ The spells of a creature can only be affected by one Metamagic option at a time.
 
 And now if you gain a level in this class, you can replace a Metamagic option that you know with a different one.
 
-<u>Metamagic II -LCF-</u>
+<h4>Metamagic II -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Metamagic I</i>
 
@@ -92,26 +92,26 @@ You learn two new Metamagic options.
 
 <h1>Metamagic Options</h1>
 
-<u>Careful Spell</u>
+<h4>Careful Spell</h4>
 
 If you cast a spell which has any number of creatures make a saving throw, you can spend 1 sorcery point to have any number of those creatures automatically succeed on their first saving throw against that spell.
 
-<u>Distant Spell</u>
+<h4>Distant Spell</h4>
 
 If you cast a spell which has a ranged attack, you can spend 1 sorcery point to double its range.
 
-<u>Enhanced Spell</u>
+<h4>Enhanced Spell</h4>
 
 If you cast a spell and roll for making creatures receive damage or regain hit points, you can spend 1 sorcery point to reroll all of those dice, using either set of rolls.
 
-<u>Heightened Spell</u>
+<h4>Heightened Spell</h4>
 
 If you cast a spell which has any number of creatures make a saving throw, you can spend 2 sorcery points to give any number of those creatures disadvantage on their first saving throw against that spell.
 
-<u>Precise Spell</u>
+<h4>Precise Spell</h4>
 
 If you cast a spell which has an attack roll, you can spend 2 sorcery points to gain advantage on your attack roll. But if you already had advantage on your attack roll, you roll an additional d20 instead, taking the highest roll between every dice.
 
-<u>Quickened Spell</u>
+<h4>Quickened Spell</h4>
 
 If you would cast a spell which has a casting time of one action, you could spend 2 sorcery points to cast it with your bonus action instead.

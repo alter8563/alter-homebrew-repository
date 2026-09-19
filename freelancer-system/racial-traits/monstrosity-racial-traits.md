@@ -1,6 +1,6 @@
 <h1>List Of Racial Traits</h1>
 
-<u>Monstrous Feat -8 Points-</u>
+<h4>Monstrous Feat -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Monstrosity)</i>
 

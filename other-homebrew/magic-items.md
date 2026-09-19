@@ -1,6 +1,6 @@
 <h1>Devil May Cry</h1>
 
-<b>Rebellion</b>
+<h4>Rebellion</h4>
 
 <i>Weapon (Longsword), Artifact (Requires Attunement)</i>
 

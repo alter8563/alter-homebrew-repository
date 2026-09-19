@@ -1,18 +1,18 @@
 <h1>List Of Class Feats</h1>
 
-<u>High Magic I -GCF-</u>
+<h4>High Magic I -GCF-</h4>
 
 <i>Prerequisites: 24th Level, Magical Breakthrough</i>
 
 You now have three 2nd level spell slots and 3rd level spell slots instead of two.
 
-<u>High Magic II -GCF-</u>
+<h4>High Magic II -GCF-</h4>
 
 <i>Prerequisites: 26th Level, High Magic I</i>
 
 You now have three 4th level spell slots and 5th level spell slots instead of two.
 
-<u>Limited Spellcasting I -GCF-</u>
+<h4>Limited Spellcasting I -GCF-</h4>
 
 <i>Prerequisites: 5th Level, Spellcasting I, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -26,9 +26,9 @@ And now if you gain a level in this class, you can replace a maneuver that you k
 
 <i>Restrictions: You must not have [Spellcasting II].</i>
 
-List Of Maneuvers: <a href="../other-homebrew/maneuvers.md">Page Link</a>
+List Of Maneuvers: <a href="../../other-homebrew/maneuvers.md">Page Link</a>
 
-<u>Limited Spellcasting II -GCF-</u>
+<h4>Limited Spellcasting II -GCF-</h4>
 
 <i>Prerequisites: 9th Level, Limited Spellcasting I</i>
 
@@ -36,7 +36,7 @@ You now have one 3rd level spell slot, and you learn one new spell that you have
 
 The maximum for your pool of maneuver points is also increased to 8 points. You are also now capable of performing 2nd level maneuvers, and you learn one new maneuver that you are capable of performing.
 
-<u>Limited Spellcasting III -GCF-</u>
+<h4>Limited Spellcasting III -GCF-</h4>
 
 <i>Prerequisites: 13th Level, Limited Spellcasting II</i>
 
@@ -44,7 +44,7 @@ You now have one 4th level spell slot, and you learn one new spell that you have
 
 The maximum for your pool of maneuver points is also increased to 12 points. You are also now capable of performing 3rd level maneuvers, and you learn one new maneuver that you are capable of performing.
 
-<u>Limited Spellcasting IV -GCF-</u>
+<h4>Limited Spellcasting IV -GCF-</h4>
 
 <i>Prerequisites: 17th Level, Limited Spellcasting III</i>
 
@@ -52,7 +52,7 @@ You now have one 5th level spell slot, and you learn one new spell that you have
 
 The maximum for your pool of maneuver points is also increased to 16 points. You are also now capable of performing 4th level maneuvers, and you learn one new maneuver that you are capable of performing.
 
-<u>Limited Spellcasting V -GCF-</u>
+<h4>Limited Spellcasting V -GCF-</h4>
 
 <i>Prerequisites: 22nd Level, Limited Spellcasting IV</i>
 
@@ -60,13 +60,13 @@ You now have two 2nd level spell slots and 3rd level spell slots instead of one,
 
 The maximum for your pool of maneuver points is also increased to 20 points. You are also now capable of performing 5th level maneuvers, and you learn one new maneuver that you are capable of performing.
 
-<u>Magical Breakthrough -GCF-</u>
+<h4>Magical Breakthrough -GCF-</h4>
 
 <i>Prerequisites: 22nd Level, Spellcasting IX</i>
 
 You learn one new cantrip from any spell list, except for <i>Eldritch Blast</i><sup><i>PHB</i></sup>. You also now have four 1st level spell slots instead of three.
 
-<u>Magical Discipline -GCF-</u>
+<h4>Magical Discipline -GCF-</h4>
 
 <i>Prerequisites: 22nd Level, Spellcasting V</i>
 
@@ -78,7 +78,7 @@ And now if you gain a level in this class, you can replace one of the chosen spe
 
 <i>Restrictions: You must not have [Spellcasting VI].</i>
 
-<u>Magical Research I -LCF-</u>
+<h4>Magical Research I -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Intelligence Of 13 Or Higher, Spellcasting I/Pact Spellcasting I</i>
 
@@ -90,7 +90,7 @@ Now if you finish a long rest, you can replace any number of prepared spells wit
 
 And now if you gain a level in this class, you can replace the spells in your expanded spell list with different spells from any spell list. You must still choose spells of 1st level or higher that you have spell slots for.
 
-<u>Magical Research II -LCF-</u>
+<h4>Magical Research II -LCF-</h4>
 
 <i>Prerequisites: 5th Level, Magical Research I</i>
 
@@ -98,7 +98,7 @@ When you get this class feat, you choose two spells from any spell list, provide
 
 Those spells become part of your expanded spell list. You then prepare up to half of the spells from your expanded spell list.
 
-<u>Magical Research III -LCF-</u>
+<h4>Magical Research III -LCF-</h4>
 
 <i>Prerequisites: 9th Level, Magical Research II</i>
 
@@ -106,7 +106,7 @@ When you get this class feat, you choose two spells from any spell list, provide
 
 Those spells become part of your expanded spell list. You then prepare up to half of the spells from your expanded spell list.
 
-<u>Magical Research IV -LCF-</u>
+<h4>Magical Research IV -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Magical Research III</i>
 
@@ -114,7 +114,7 @@ When you get this class feat, you choose four spells from any spell list, provid
 
 Those spells become part of your expanded spell list. You then prepare up to half of the spells from your expanded spell list.
 
-<u>Spellcasting I -GCF-</u>
+<h4>Spellcasting I -GCF-</h4>
 
 <i>Prerequisites: 1st Level, Arcane Initiate</i>
 
@@ -130,7 +130,7 @@ And now if you gain a level in this class, you can replace a spell that you know
 
 <i>Restrictions: You must not have [Pact Spellcasting I].</i>
 
-<u>Spellcasting II -GCF-</u>
+<h4>Spellcasting II -GCF-</h4>
 
 <i>Prerequisites: 3rd Level, Spellcasting I</i>
 
@@ -138,25 +138,25 @@ You now have two 2nd level spell slots, and you learn two new spells that you ha
 
 <i>Restrictions: You must not have [Limited Spellcasting I].</i>
 
-<u>Spellcasting III -GCF-</u>
+<h4>Spellcasting III -GCF-</h4>
 
 <i>Prerequisites: 5th Level, Spellcasting II</i>
 
 You now have two 3rd level spell slots, and you learn two new spells that you have spell slots for from your freelancer spell list.
 
-<u>Spellcasting IV -GCF-</u>
+<h4>Spellcasting IV -GCF-</h4>
 
 <i>Prerequisites: 7th Level, Spellcasting III</i>
 
 You now have two 4th level spell slots, and you learn two new spells that you have spell slots for from your freelancer spell list.
 
-<u>Spellcasting V -GCF-</u>
+<h4>Spellcasting V -GCF-</h4>
 
 <i>Prerequisites: 9th Level, Spellcasting IV</i>
 
 You now have two 5th level spell slots, and you learn two new spells that you have spell slots for from your freelancer spell list.
 
-<u>Spellcasting VI -GCF-</u>
+<h4>Spellcasting VI -GCF-</h4>
 
 <i>Prerequisites: 11th Level, Spellcasting V</i>
 
@@ -164,19 +164,19 @@ You now have one 6th level spell slot, and you learn one new spell that you have
 
 <i>Restrictions: You must not have [Magical Discipline].</i>
 
-<u>Spellcasting VII -GCF-</u>
+<h4>Spellcasting VII -GCF-</h4>
 
 <i>Prerequisites: 13th Level, Spellcasting VI</i>
 
 You now have one 7th level spell slot, and you learn one new spell that you have spell slots for from your freelancer spell list.
 
-<u>Spellcasting VIII -GCF-</u>
+<h4>Spellcasting VIII -GCF-</h4>
 
 <i>Prerequisites: 15th Level, Spellcasting VII</i>
 
 You now have one 8th level spell slot, and you learn one new spell that you have spell slots for from your freelancer spell list.
 
-<u>Spellcasting IX -GCF-</u>
+<h4>Spellcasting IX -GCF-</h4>
 
 <i>Prerequisites: 17th Level, Spellcasting VIII</i>
 

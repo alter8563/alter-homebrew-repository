@@ -1,6 +1,6 @@
 <h1>List Of Racial Traits</h1>
 
-<u>Alien Nature -8 Points-</u>
+<h4>Alien Nature -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Aberration), Void Breath</i>
 

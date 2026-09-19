@@ -1,6 +1,6 @@
 <h1>List Of Racial Traits</h1>
 
-<u>Hazy Memories -2 Points-</u>
+<h4>Hazy Memories -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Undead)</i>
 
@@ -10,7 +10,7 @@ You can only use this feature one time, and you regain all of your expended uses
 
 <i>Restrictions: You must not have [Fangs].</i>
 
-<u>Turn Immunity -2 Points-</u>
+<h4>Turn Immunity -2 Points-</h4>
 
 <i>Prerequisites: Creature Type (Undead)</i>
 

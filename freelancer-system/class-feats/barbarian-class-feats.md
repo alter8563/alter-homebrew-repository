@@ -1,6 +1,6 @@
 <h1>List Of Class Feats</h1>
 
-<u>Primal Rage I -LCF-</u>
+<h4>Primal Rage I -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Strength Of 13 Or Higher, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -19,19 +19,19 @@ Your Primal Rage also ends early at the end of your turn if you did not inflict 
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all of your expended uses when you finish a long rest.
 
-<u>Primal Rage II -LCF-</u>
+<h4>Primal Rage II -LCF-</h4>
 
 <i>Prerequisites: 5th Level, Primal Rage I</i>
 
 Your Rage Damage bonus is increased to +4.
 
-<u>Primal Rage III -LCF-</u>
+<h4>Primal Rage III -LCF-</h4>
 
 <i>Prerequisites: 9th Level, Primal Rage II</i>
 
 Your Rage Damage bonus is increased to +6.
 
-<u>Primal Rage IV -LCF-</u>
+<h4>Primal Rage IV -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Primal Rage III</i>
 

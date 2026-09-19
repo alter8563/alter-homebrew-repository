@@ -1,6 +1,6 @@
 <h1>List Of Class Feats</h1>
 
-<u>Accurate Magic -LCF-</u>
+<h4>Accurate Magic -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -10,13 +10,13 @@ Your ranged attacks with spells also now ignore half cover and three-quarters co
 
 <i>Restrictions: You must not have [War Magic].</i>
 
-<u>Additional Extraordinary Ability -GCF-</u>
+<h4>Additional Extraordinary Ability -GCF-</h4>
 
 <i>Prerequisites: 30th Level, Extraordinary Ability</i>
 
 You increase one ability score by 4, up to a maximum of 30.
 
-<u>Agile -LCF-</u>
+<h4>Agile -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -24,13 +24,13 @@ Your jump distance is now tripled.
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Nimble].</i>
 
-<u>Ancient Equipment Bond -LCF-</u>
+<h4>Ancient Equipment Bond -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Equipment Bond</i>
 
 You are no longer prevented from bonding yourself to artifacts.
 
-<u>Arcane Initiate -LCF-</u>
+<h4>Arcane Initiate -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -46,19 +46,19 @@ And now if you gain a level in this class, you can replace a cantrip that you kn
 
 <i>Restrictions: You must not have [Combat Maneuver I]. But if you are using the Custom Race option and have [Innate Spellcasting], you must choose the same spellcasting ability for this class feat that you had chosen for that racial trait.</i>
 
-<u>Battle Magic -LCF-</u>
+<h4>Battle Magic -LCF-</h4>
 
 <i>Prerequisites: 3rd Level, Font Of Power I, Spellcasting I</i>
 
 Now if you would cast a cantrip which has a casting time of one action, you could spend 1 chi point to cast it with your bonus action instead.
 
-<u>Bow Lord -LCF-</u>
+<h4>Bow Lord -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Bow Master</i>
 
 The normal range and long range of any longbow or shortbow that you wield is now doubled.
 
-<u>Bow Master -LCF-</u>
+<h4>Bow Master -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -66,7 +66,7 @@ You no longer have disadvantage on ranged attack rolls made at long range with l
 
 Your ranged attacks with longbows and shortbows also now ignore half cover and three-quarters cover.
 
-<u>Cannoneer -LCF-</u>
+<h4>Cannoneer -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With Firearms</i>
 
@@ -76,7 +76,7 @@ You can also now ignore the two-handed property of firearms.
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Gunner].</i>
 
-<u>Cavalier -LCF-</u>
+<h4>Cavalier -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -86,7 +86,7 @@ You can also now use 5 feet of your movement speed to mount other creatures or d
 
 <i>Restrictions: You must not have [Faithful Mount].</i>
 
-<i>Charging Strike -LCF-</i>
+<h4>Charging Strike -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -94,7 +94,7 @@ Now if you move at least 20 feet in a straight line during a turn, you have adva
 
 <i>Restrictions: You must not have [Rigid Strike].</i>
 
-<u>Cipher Writing -LCF-</u>
+<h4>Cipher Writing -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -102,7 +102,7 @@ You can now write ciphers in any language that you know.
 
 Other creatures cannot decipher a cipher that you have written unless they are taught by you on how to decipher it, they use magic to decipher it, or they succeed on an Intelligence ability check to decipher it. The ability check DC for this effect is equal to 8 + your proficiency bonus + your Intelligence modifier.
 
-<u>Cleansing Pulse -LCF-</u>
+<h4>Cleansing Pulse -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -110,7 +110,7 @@ Now if you roll for making a creature regain hit points, you can treat any resul
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Healing Pulse].</i>
 
-<u>Cleansing Touch -LCF-</u>
+<h4>Cleansing Touch -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -120,7 +120,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 <i>Restrictions: You must not have [Destructive Blow] or [Sharpened Blow]. And if you are using the Custom Race option, you must not have [Healing Touch].</i>
 
-<u>Climber -LCF-</u>
+<h4>Climber -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -128,25 +128,25 @@ You now have a climbing speed equal to your walking speed.
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Climbing].</i>
 
-<u>Colossal Build -LCF-</u>
+<h4>Colossal Build -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Mighty Build</i>
 
 You now count as one size larger for determining your carrying capacity and the weight that you can push, drag, or lift.
 
-<u>Crafter -LCF-</u>
+<h4>Crafter -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Tool</i>
 
 Now when you craft anything by using a set of tools, it takes half as much time compared to normal, and it costs half as much money compared to normal.
 
-<u>Crossbow Lord -LCF-</u>
+<h4>Crossbow Lord -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Crossbow Master</i>
 
 You no longer have disadvantage on ranged attack rolls made at long range with crossbows.
 
-<u>Crossbow Master -LCF-</u>
+<h4>Crossbow Master -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -154,7 +154,7 @@ You can now ignore the loading property of crossbows, and you no longer require 
 
 You also no longer have disadvantage on ranged attack rolls made with crossbows due to a hostile creature being within 5 feet of you.
 
-<u>Destructive Blow -LCF-</u>
+<h4>Destructive Blow -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -164,7 +164,7 @@ Now if you hit with an unarmed strike, you can inflict the chosen damage type in
 
 <i>Restrictions: You must not have [Cleansing Touch] or [Sharpened Blow]. And if you are using the Custom Race option, you must not have [Elemental Blow].</i>
 
-<u>Destructive Crash -LCF-</u>
+<h4>Destructive Crash -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Empowered Blow</i>
 
@@ -174,7 +174,7 @@ Your unarmed strikes now inflict an extra 2d8 damage of the chosen damage type.
 
 <i>Restrictions: You must not have [Empowered Crash] or [Sharpened Crash].</i>
 
-<u>Destructive Fury -LCF-</u>
+<h4>Destructive Fury -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -184,7 +184,7 @@ Now if you roll for inflicting damage of the chosen damage type, you can treat a
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Elemental Fury].</i>
 
-<u>Distant Caster -LCF-</u>
+<h4>Distant Caster -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -192,7 +192,7 @@ The range of spells that you cast which have ranged attacks is now doubled.
 
 <i>Restrictions: You must not have [Quick Retreat] or [Sentinel].</i>
 
-<u>Elemental Arc -LCF-</u>
+<h4>Elemental Arc -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -200,7 +200,7 @@ When you get this class feat, you choose one of the following damage types: acid
 
 Any damage that you inflict now ignores the resistance that other creatures have to the chosen damage type.
 
-<u>Elemental Smite -LCF-</u>
+<h4>Elemental Smite -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -212,7 +212,7 @@ This extra damage is equal to 2d8 + 1d8 per level of the expended spell slot abo
 
 <i>Restrictions: You must not have [Healing Beacon] or [Natural Smite].</i>
 
-<u>Empathetic Mind -LCF-</u>
+<h4>Empathetic Mind -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -220,7 +220,7 @@ You now have telepathy with a range of 60 feet.
 
 But if you already have telepathy, its range is now increased by 60 feet instead.
 
-<u>Empowered Blow -LCF-</u>
+<h4>Empowered Blow -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Monastic Arts I</i>
 
@@ -228,7 +228,7 @@ Your unarmed strikes are now treated as magical.
 
 You also now have a bonus to attack rolls and damage rolls made with your unarmed strikes equal to half your proficiency bonus - 1.
 
-<u>Empowered Crash -LCF-</u>
+<h4>Empowered Crash -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Empowered Blow</i>
 
@@ -236,7 +236,7 @@ Your unarmed strikes now inflict one extra die of bludgeoning damage.
 
 <i>Restrictions: You must not have [Destructive Crash] or [Sharpened Crash].</i>
 
-<u>Equipment Bond -LCF-</u>
+<h4>Equipment Bond -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -252,7 +252,7 @@ Your connection to a bonded item breaks if you perform this ceremony on it again
 
 When your connection to a bonded item breaks, that item appears from your pocket dimension at your feet. You cannot bond yourself to artifacts.
 
-<u>Extra Attack -GCF-</u>
+<h4>Extra Attack -GCF-</h4>
 
 <i>Prerequisites: 22nd Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -262,13 +262,13 @@ And now while you are engaged in two-weapon fighting, you can make one extra off
 
 <i>Restrictions: You must not have [Hardened Focus] or [Phenomenal Casting].</i>
 
-<u>Extraordinary Ability -GCF-</u>
+<h4>Extraordinary Ability -GCF-</h4>
 
 <i>Prerequisites: 20th Level</i>
 
 You increase one ability score by 4, up to a maximum of 30.
 
-<u>Faithful Mount -LCF-</u>
+<h4>Faithful Mount -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -276,19 +276,19 @@ You can now force attack rolls which are made on creatures that are mounted on y
 
 <i>Restrictions: You must not have [Cavalier].</i>
 
-<u>Fast Movement I -LCF-</u>
+<h4>Fast Movement I -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 Now while you are not wearing a suit of medium armor or a suit of heavy armor, your walking speed is increased by 10 feet.
 
-<u>Fast Movement II -LCF-</u>
+<h4>Fast Movement II -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Fast Movement I</i>
 
 Now while you are not wearing a suit of medium armor or a suit of heavy armor, your walking speed is increased by 10 feet.
 
-<u>Fighting Style -LCF-</u>
+<h4>Fighting Style -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -298,19 +298,19 @@ And now if you gain a level in this class, you can replace a Fighting Style opti
 
 <i>Restrictions: You must not have [Ritual Casting] or [Subtle Casting].</i>
 
-<u>Firearm Training -LCF-</u>
+<h4>Firearm Training -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You gain proficiency with firearms.
 
-<u>Great Weapon Lord -LCF-</u>
+<h4>Great Weapon Lord -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Great Weapon Master</i>
 
 You now have a +3 bonus to damage rolls made with melee weapons that you are wielding in both hands.
 
-<u>Great Weapon Master -LCF-</u>
+<h4>Great Weapon Master -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -318,13 +318,13 @@ You now have a bonus to damage rolls made with melee weapons that you are wieldi
 
 You can also now ignore the heavy property of melee weapons.
 
-<u>Gun Lord -LCF-</u>
+<h4>Gun Lord -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Gun Master</i>
 
 You no longer have disadvantage on ranged attack rolls made at long range with firearms.
 
-<u>Gun Master -LCF-</u>
+<h4>Gun Master -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -332,7 +332,7 @@ You can now ignore the loading property of firearms, and you no longer require a
 
 You also no longer have disadvantage on ranged attack rolls made with firearms due to a hostile creature being within 5 feet of you.
 
-<u>Hardened Focus -GCF-</u>
+<h4>Hardened Focus -GCF-</h4>
 
 <i>Prerequisites: 22nd Level, Spellcasting I/Pact Spellcasting I, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -340,13 +340,13 @@ You now add your spellcasting ability modifier to Constitution saving throws mad
 
 <i>Restrictions: You must not have [Extra Attack] or [Phenomenal Casting].</i>
 
-<u>Healer -LCF-</u>
+<h4>Healer -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 Now when you use an effect to make a creature regain hit points, you increase the number of hit points that they regain by a number equal to 2.
 
-<u>Healing Beacon -LCF-</u>
+<h4>Healing Beacon -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -354,13 +354,13 @@ Now if you cast a spell of 1st level or higher which makes another creature rega
 
 <i>Restrictions: You must not have [Elemental Smite] or [Natural Smite].</i>
 
-<u>Heavy Armor Lord -LCF-</u>
+<h4>Heavy Armor Lord -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Heavy Armor Master</i>
 
 Now while you are wearing a suit of heavy armor, you add your Intelligence modifier, your Wisdom modifier, or your Charisma modifier (your choice when you get this class feat) to your AC.
 
-<u>Heavy Armor Master -LCF-</u>
+<h4>Heavy Armor Master -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With Heavy Armor</i>
 
@@ -368,7 +368,7 @@ Now while you are wearing a suit of heavy armor, you can decrease any bludgeonin
 
 You also no longer have disadvantage on your Dexterity (Stealth) checks due to you wearing a suit of heavy armor.
 
-<u>Heavy Armor Training -GCF-</u>
+<h4>Heavy Armor Training -GCF-</h4>
 
 <i>Prerequisites: 2nd Level, Proficiency With Medium Armor</i>
 
@@ -376,13 +376,13 @@ You gain proficiency with heavy armor.
 
 <i>Restrictions: You must not have [Unarmored Guard] or [Varied Armor Master].</i>
 
-<u>Improved Battle Magic -LCF-</u>
+<h4>Improved Battle Magic -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Battle Magic</i>
 
 Now if you would cast a spell of 1st level or higher which has a casting time of one action, you could spend 1 chi point to cast it with your bonus action instead.
 
-<u>Improved Elemental Arc -LCF-</u>
+<h4>Improved Elemental Arc -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Elemental Arc</i>
 
@@ -390,7 +390,7 @@ Any damage that you inflict now ignores the immunity that other creatures have t
 
 And if the damage type that you had chosen for [Elemental Arc] was poison, any effects that you use now ignore the immunity that other creatures have to the poisoned condition.
 
-<u>Improved Magical Companion -LCF-</u>
+<h4>Improved Magical Companion -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Magical Companion</i>
 
@@ -404,31 +404,31 @@ Now when you cast <i>Find Familiar</i><sup><i>PHB</i></sup>, you and your famili
 
 These benefits last until your familiar is dismissed forever or dies.
 
-<u>Improved Power Grip -LCF-</u>
+<h4>Improved Power Grip -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Power Grip</i>
 
 You now have a +4 bonus to damage rolls made with melee weapons.
 
-<u>Improved Power Rush -LCF-</u>
+<h4>Improved Power Rush -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Power Rush</i>
 
 You now have a +4 bonus to damage rolls made with your unarmed strikes.
 
-<u>Improved Power Shot -LCF-</u>
+<h4>Improved Power Shot -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Power Shot</i>
 
 You now have a +2 bonus to attack rolls made with ranged weapons that you are wielding in both hands, and you now have a +2 bonus to attack rolls made with ranged weapons that you are wielding in one hand, provided you are not wielding anything else.
 
-<u>Improved Quick Retreat -LCF-</u>
+<h4>Improved Quick Retreat -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Quick Retreat</i>
 
 You can now use your action or your bonus action to take the Dash action and the Disengage action at the same time.
 
-<u>Improved Shadowy Hand -LCF-</u>
+<h4>Improved Shadowy Hand -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Shadowy Hand</i>
 
@@ -438,7 +438,7 @@ That spectral hand also now vanishes if it is ever more than 120 feet away from 
 
 That spectral hand is also now capable of carrying no more than 200 pounds instead of no more than 40 pounds.
 
-<u>Innate Focus -LCF-</u>
+<h4>Innate Focus -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -446,19 +446,19 @@ Now if you cast a spell, you can ignore any of its material components which are
 
 <i>Restrictions: You must not have [Tool Focus].</i>
 
-<u>Language Practice I -LCF-</u>
+<h4>Language Practice I -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You learn two standard languages or exotic languages.
 
-<u>Language Practice II -LCF-</u>
+<h4>Language Practice II -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Language Practice I</i>
 
 You learn two standard languages or exotic languages.
 
-<u>Magical Companion -LCF-</u>
+<h4>Magical Companion -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -476,19 +476,19 @@ And now when you cast <i>Find Familiar</i><sup><i>PHB</i></sup>, you and your fa
 
 These benefits last until your familiar is dismissed forever or dies.
 
-<u>Martial Weapon Training -LCF-</u>
+<h4>Martial Weapon Training -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With Simple Weapons</i>
 
 You gain proficiency with martial weapons.
 
-<u>Mighty Build -LCF-</u>
+<h4>Mighty Build -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You now count as one size larger for determining your carrying capacity and the weight that you can push, drag, or lift.
 
-<u>Mobile -LCF-</u>
+<h4>Mobile -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -496,7 +496,7 @@ You can now use your Dexterity modifier instead of your Strength modifier for yo
 
 And now while you are prone, you can use 5 feet of your movement speed to stand back up.
 
-<u>Monastic Arts I -LCF-</u>
+<h4>Monastic Arts I -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -506,25 +506,25 @@ You can also now use Dexterity instead of Strength for the attack rolls and dama
 
 Monastic weapons are melee weapons which lack the heavy property.
 
-<u>Monastic Arts II -LCF-</u>
+<h4>Monastic Arts II -LCF-</h4>
 
 <i>Prerequisites: 5th Level, Monastic Arts I</i>
 
 Your unarmed strikes now inflict 1d8 bludgeoning damage instead of 1d6 bludgeoning damage.
 
-<u>Monastic Arts III -LCF-</u>
+<h4>Monastic Arts III -LCF-</h4>
 
 <i>Prerequisites: 9th Level, Monastic Arts II</i>
 
 Your unarmed strikes now inflict 1d10 bludgeoning damage instead of 1d8 bludgeoning damage.
 
-<u>Monastic Arts IV -LCF-</u>
+<h4>Monastic Arts IV -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Monastic Arts III</i>
 
 Your unarmed strikes now inflict 1d12 bludgeoning damage instead of 1d10 bludgeoning damage.
 
-<u>Natural Smite -LCF-</u>
+<h4>Natural Smite -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -534,7 +534,7 @@ This extra damage is equal to 2d4 + 1d4 per level of the expended spell slot abo
 
 <i>Restrictions: You must not have [Elemental Smite] or [Healing Beacon].</i>
 
-<u>Night Vision -LCF-</u>
+<h4>Night Vision -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -542,7 +542,7 @@ You now have darkvision with a range of 60 feet.
 
 But if you already have darkvision, its range is now increased by 60 feet instead.
 
-<u>Phenomenal Casting -GCF-</u>
+<h4>Phenomenal Casting -GCF-</h4>
 
 <i>Prerequisites: 22nd Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -550,7 +550,7 @@ You are no longer prevented from casting a spell of 1st level or higher with you
 
 <i>Restrictions: You must not have [Extra Attack] or [Hardened Focus].</i>
 
-<u>Power Grip -LCF-</u>
+<h4>Power Grip -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -558,7 +558,7 @@ You now have a +2 bonus to damage rolls made with melee weapons.
 
 You can also now ignore the two-handed property of melee weapons.
 
-<u>Power Rush -LCF-</u>
+<h4>Power Rush -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -566,7 +566,7 @@ You now have a +2 bonus to damage rolls made with your unarmed strikes.
 
 And now if you hit another creature with an unarmed strike, you can use your reaction to make a grapple attempt or a shove attempt on them.
 
-<u>Power Shot -LCF-</u>
+<h4>Power Shot -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -574,19 +574,19 @@ You now have a +1 bonus to attack rolls made with ranged weapons that you are wi
 
 You can also now use Strength instead of Dexterity for the attack rolls and damage rolls of your weapon attacks with ranged weapons.
 
-<u>Profoundly Distant Caster -LCF-</u>
+<h4>Profoundly Distant Caster -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Distant Caster</i>
 
 The range of spells that you cast which have ranged attacks is now doubled.
 
-<u>Profoundly Mobile -LCF-</u>
+<h4>Profoundly Mobile -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Mobile</i>
 
 Your jump distance is now doubled.
 
-<u>Quick Retreat -LCF-</u>
+<h4>Quick Retreat -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -594,19 +594,19 @@ You can now use your bonus action to take the Dash action or the Disengage actio
 
 <i>Restrictions: You must not have [Distant Caster] or [Sentinel].</i>
 
-<u>Remarkable Healer -LCF-</u>
+<h4>Remarkable Healer -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Healer</i>
 
 Now when you use an effect to make a creature regain hit points, you increase the number of hit points that they regain by a number equal to 3.
 
-<u>Remarkable Sentinel -LCF-</u>
+<h4>Remarkable Sentinel -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Sentinel</i>
 
 Now if another creature that you can see within the melee range of your unarmed strike or your melee weapon takes the Disengage action, you can use your reaction to make an opportunity attack on them.
 
-<u>Rigid Strike -LCF-</u>
+<h4>Rigid Strike -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -614,7 +614,7 @@ You can now use your bonus action on your turn to make yourself have advantage o
 
 <i>Restrictions: You must not have [Charging Strike].</i>
 
-<u>Ritual Casting -LCF-</u>
+<h4>Ritual Casting -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -622,13 +622,13 @@ You can now cast spells which have the ritual tag as rituals, provided you know 
 
 <i>Restrictions: You must not have [Fighting Style] or [Subtle Casting].</i>
 
-<u>Savage Marauder -LCF-</u>
+<h4>Savage Marauder -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 Now if you roll for inflicting bludgeoning damage, piercing damage, or slashing damage, you can treat any results of 1 as 2 instead.
 
-<u>Sentinel -LCF-</u>
+<h4>Sentinel -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -636,7 +636,7 @@ Now if you hit another creature with an opportunity attack, their movement speed
 
 <i>Restrictions: You must not have [Distant Caster] or [Quick Retreat].</i>
 
-<u>Shadowy Hand -LCF-</u>
+<h4>Shadowy Hand -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -646,7 +646,7 @@ You can also now use your bonus action to control that spectral hand.
 
 That spectral hand is also now capable of carrying no more than 40 pounds instead of no more than 10 pounds.
 
-<u>Sharpened Blow -LCF-</u>
+<h4>Sharpened Blow -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -654,7 +654,7 @@ Now if you hit with an unarmed strike, you can inflict piercing damage or slashi
 
 <i>Restrictions: You must not have [Cleansing Touch] or [Destructive Blow]. And if you are using the Custom Race option, you must not have [Natural Blow].</i>
 
-<u>Sharpened Crash -LCF-</u>
+<h4>Sharpened Crash -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Empowered Blow</i>
 
@@ -662,13 +662,13 @@ Your unarmed strikes now inflict an extra 2d4 bludgeoning damage.
 
 <i>Restrictions: You must not have [Destructive Crash] or [Empowered Crash].</i>
 
-<u>Shield Lord -LCF-</u>
+<h4>Shield Lord -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Shield Master</i>
 
 Now while you are wielding a shield, you have a +3 bonus to your Dexterity saving throws.
 
-<u>Shield Master -LCF-</u>
+<h4>Shield Master -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With Shields</i>
 
@@ -676,43 +676,43 @@ You now add the AC bonus of any shield that you wield to your Dexterity saving t
 
 You can also now use your object interaction to don or doff a shield, and you can now use your object interaction to draw or stow a weapon and don or doff a shield at the same time.
 
-<u>Shield Training -GCF-</u>
+<h4>Shield Training -GCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You gain proficiency with shields.
 
-<u>Simple Weapon Training -LCF-</u>
+<h4>Simple Weapon Training -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You gain proficiency with simple weapons.
 
-<u>Skill Expert I -LCF-</u>
+<h4>Skill Expert I -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Skill</i>
 
 You gain expertise with one skill that you are proficient with.
 
-<u>Skill Expert II -LCF-</u>
+<h4>Skill Expert II -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Skill Expert I, Proficiency With One Skill</i>
 
 You gain expertise with one skill that you are proficient with.
 
-<u>Skill Practice I -LCF-</u>
+<h4>Skill Practice I -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You gain proficiency with one skill.
 
-<u>Skill Practice II -LCF-</u>
+<h4>Skill Practice II -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Skill Practice I</i>
 
 You gain proficiency with one skill.
 
-<u>Soaring Wave -LCF-</u>
+<h4>Soaring Wave -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Empowered Blow</i>
 
@@ -720,7 +720,7 @@ You can now use your unarmed strike to make ranged attacks which have a normal r
 
 The damage for these ranged attacks is the same as the damage for the melee attacks of your unarmed strike.
 
-<u>Subtle Casting -LCF-</u>
+<h4>Subtle Casting -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -728,7 +728,7 @@ Now if you cast a spell, you can ignore any of its verbal components and somatic
 
 <i>Restrictions: You must not have [Fighting Style] or [Ritual Casting].</i>
 
-<u>Swimmer -LCF-</u>
+<h4>Swimmer -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -736,13 +736,13 @@ You now have a swimming speed equal to your walking speed.
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Swimming].</i>
 
-<u>Thrown Weapon Lord -LCF-</u>
+<h4>Thrown Weapon Lord -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Thrown Weapon Master</i>
 
 The normal range and long range of any weapon which has the thrown property that you wield is now doubled.
 
-<u>Thrown Weapon Master -LCF-</u>
+<h4>Thrown Weapon Master -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -750,7 +750,7 @@ You no longer have disadvantage on ranged attack rolls made at long range with w
 
 You also no longer have disadvantage on ranged attack rolls made with weapons which have the thrown property by throwing them due to a hostile creature being within 5 feet of you.
 
-<u>Tool Focus -LCF-</u>
+<h4>Tool Focus -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -758,49 +758,49 @@ You can now use any tool that you hold as a spellcasting focus for your spells.
 
 <i>Restrictions: You must not have [Innate Focus].</i>
 
-<u>Tool Practice I -LCF-</u>
+<h4>Tool Practice I -LCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You gain proficiency with two tools.
 
-<u>Tool Practice II -LCF-</u>
+<h4>Tool Practice II -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Tool Practice I</i>
 
 You gain proficiency with two tools.
 
-<u>True Defense -GCF-</u>
+<h4>True Defense -GCF-</h4>
 
 <i>Prerequisites: 23rd Level, Proficiency With Heavy Armor/Varied Armor Master/Unarmored Guard</i>
 
 You now have a +3 bonus to your AC.
 
-<u>True Magic Knight -LCF-</u>
+<h4>True Magic Knight -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Ritual Casting/Subtle Casting, War Magic</i>
 
 Your weapon attacks now inflict one extra die of damage.
 
-<u>True Power Knight -LCF-</u>
+<h4>True Power Knight -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Fighting Style, Charging Strike/Rigid Strike</i>
 
 Your weapon attacks now inflict one extra die of damage.
 
-<u>True Spellcasting -LCF-</u>
+<h4>True Spellcasting -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Ritual Casting/Subtle Casting, Accurate Magic</i>
 
 You now have a +1 bonus to your spell attack rolls and your spell save DCs.
 
-<u>Two-Weapon Lord -LCF-</u>
+<h4>Two-Weapon Lord -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Two-Weapon Master</i>
 
 Now while you are engaged in two-weapon fighting, you increase any damage that you inflict with either of those weapons by 2.
 
-<u>Two-Weapon Master -LCF-</u>
+<h4>Two-Weapon Master -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -808,7 +808,7 @@ You can now engage in two-weapon fighting with ranged weapons along with weapons
 
 You can also now use your object interaction to draw or stow two weapons at the same time.
 
-<u>Unarmored Defense -GCF-</u>
+<h4>Unarmored Defense -GCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
@@ -816,7 +816,7 @@ Now while you are not wearing a suit of armor, your AC is equal to 12 + your Dex
 
 <i>Restrictions: If you are using the Custom Race option, you must not have [Natural Armor].</i>
 
-<u>Unarmored Guard -GCF-</u>
+<h4>Unarmored Guard -GCF-</h4>
 
 <i>Prerequisites: 2nd Level</i>
 
@@ -824,13 +824,13 @@ Now while you are not wearing a suit of armor, you add your Intelligence modifie
 
 <i>Restrictions: You must not have [Heavy Armor Training] or [Varied Armor Master].</i>
 
-<u>Valiant Mage -LCF-</u>
+<h4>Valiant Mage -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Innate Focus/Tool Focus</i>
 
 You now have a +3 bonus to Constitution saving throws made to maintain concentration on your spells.
 
-<u>Varied Armor Master -GCF-</u>
+<h4>Varied Armor Master -GCF-</h4>
 
 <i>Prerequisites: 2nd Level, Proficiency With Medium Armor</i>
 
@@ -838,19 +838,19 @@ Now while you are wearing a suit of light armor or a suit of medium armor, you a
 
 <i>Restrictions: You must not have [Heavy Armor Training] or [Unarmored Guard].</i>
 
-<u>Varied Armor Training -GCF-</u>
+<h4>Varied Armor Training -GCF-</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You gain proficiency with light armor and medium armor.
 
-<u>Versatile Weapon Lord -LCF-</u>
+<h4>Versatile Weapon Lord -LCF-</h4>
 
 <i>Prerequisites: 22nd Level, Versatile Weapon Master</i>
 
 You now have a +3 bonus to damage rolls made with melee weapons that you are wielding in one hand, provided you are not wielding anything else.
 
-<u>Versatile Weapon Master -LCF-</u>
+<h4>Versatile Weapon Master -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
@@ -858,7 +858,7 @@ You now have a bonus to damage rolls made with melee weapons that you are wieldi
 
 You can also now use the alternative damage of melee weapons which have the versatile property for damage rolls made with them even while you are wielding them in one hand, and you can now use the alternative damage of melee weapons which have the versatile property for ranged attacks that you make with them by throwing them.
 
-<u>War Magic -LCF-</u>
+<h4>War Magic -LCF-</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I</i>
 
@@ -870,20 +870,20 @@ You also no longer have disadvantage on ranged attack rolls made with spells due
 
 <h1>Fighting Style Options</h1>
 
-<u>Melee Weapon Fighting</u>
+<h4>Melee Weapon Fighting</h4>
 
 You now have a bonus to damage rolls made with melee weapons equal to your proficiency bonus + 1.
 
-<u>Ranged Weapon Fighting</u>
+<h4>Ranged Weapon Fighting</h4>
 
 You now have a bonus to attack rolls made with ranged weapons equal to half your proficiency bonus + 1.
 
-<u>Two-Weapon Fighting</u>
+<h4>Two-Weapon Fighting</h4>
 
 Now while you are engaged in two-weapon fighting, you make your off-hand weapon attacks with the same action that you use to make your main hand weapon attacks instead of with your bonus action.
 
 You also now add your ability modifier to damage rolls made with your off-hand weapon attacks.
 
-<u>Unarmed Fighting</u>
+<h4>Unarmed Fighting</h4>
 
 You now have a bonus to damage rolls made with your unarmed strikes equal to your proficiency bonus + 1, provided you are not wielding anything.

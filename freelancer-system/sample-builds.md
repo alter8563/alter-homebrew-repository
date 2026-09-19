@@ -451,9 +451,7 @@ The list for races shows the racial traits which should be taken, and the list f
 
 <ul>
     <li>Determination</li>
-    <li>Firearm Proficiency</li>
-    <li>Shield Proficiency</li>
-    <li>Simple Weapon Proficiency</li>
+    <li>Feat</li>
     <li>Vocation Proficiency</li>
 </ul>
 
@@ -514,14 +512,6 @@ The list for races shows the racial traits which should be taken, and the list f
     <li>Extended Longevity</li>
     <li>Natural Armor</li>
     <li>Robust Shell</li>
-    <li>Vocation Proficiency</li>
-</ul>
-
-<h3>Variant Human</h3>
-
-<ul>
-    <li>Determination</li>
-    <li>Feat</li>
     <li>Vocation Proficiency</li>
 </ul>
 

@@ -3,9 +3,11 @@
 A band of adventurers was facing a blue minotaur which had been wearing plated armor and wielding a massive warhammer. The party members who had been wearing various clothes and suits of armor prepare their fists, blades, and staves for yet another battle in their long journey.
 
 <h2>Call to Adventure</h2>
+
 Freelancers leave home as any ordinary person would, but they pick up skills on the road.
 
 <h2>A Life of Roaming</h2>
+
 Freelancers are often far from home, out saving the world, or doing other new things.
 
 <i>You cannot multiclass into or out of this class.</i>
@@ -298,73 +300,73 @@ You increase one ability score by 2 or two different ability scores by 1, up to 
 
 <h1>List Of Legendary Actions</h1>
 
-<u>Cast A Cantrip</u>
+<h4>Cast A Cantrip</h4>
 
 <i>Prerequisites: 1st Level, Arcane Initiate</i>
 
 You cast a cantrip which has a casting time of 1 action or 1 bonus action.
 
-<u>Cast A Spell (Costs 2 Actions)</u>
+<h4>Cast A Spell (Costs 2 Actions)</h4>
 
 <i>Prerequisites: 1st Level, Spellcasting I/Pact Spellcasting I</i>
 
 You cast a spell of 1st level or higher which has a casting time of 1 action or 1 bonus action.
 
-<u>Dodge</u>
+<h4>Dodge</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You take the Dodge action.
 
-<u>Escape</u>
+<h4>Escape</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You take the Escape action.
 
-<u>Hide</u>
+<h4>Hide</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You take the Hide action.
 
-<u>Make A Weapon Attack</u>
+<h4>Make A Weapon Attack</h4>
 
 <i>Prerequisites: 1st Level, Proficiency With One Type Of Weapon/Monastic Arts I</i>
 
 You make a weapon attack.
 
-<u>Move</u>
+<h4>Move</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You move up to your movement speed, without provoking opportunity attacks.
 
-<u>Perform A Maneuver (Costs 2 Action)</u>
+<h4>Perform A Maneuver (Costs 2 Action)</h4>
 
 <i>Prerequisites: 1st Level, Combat Maneuver I/Limited Spellcasting I/Limited Pact Spellcasting I</i>
 
 You perform a maneuver which requires your action or your bonus action.
 
-<u>Search</u>
+<h4>Search</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You take the Search action.
 
-<u>Sprint (Costs 2 Actions)</u>
+<h4>Sprint (Costs 2 Actions)</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You move up to double your movement speed, without provoking opportunity attacks.
 
-<u>Throw</u>
+<h4>Throw</h4>
 
 <i>Prerequisites: 1st Level</i>
 
 You take the Throw action.
 
-<u>Wrestle</u>
+<h4>Wrestle</h4>
 
 <i>Prerequisites: 1st Level</i>
 

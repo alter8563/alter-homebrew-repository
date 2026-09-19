@@ -1,6 +1,6 @@
 <h1>List Of Racial Traits</h1>
 
-<u>Fairy Nature -8 Points-</u>
+<h4>Fairy Nature -8 Points-</h4>
 
 <i>Prerequisites: Creature Type (Fey), Trance</i>
 

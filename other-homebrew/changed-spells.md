@@ -1,6 +1,6 @@
 <h1>Cantrips</h1>
 
-<u>Ray Of Frost</u>
+<h4>Ray Of Frost</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -19,9 +19,9 @@ You make a ranged spell attack on a creature that you can see within range. On a
 
 <b><i>At Higher Levels.</i></b> The damage of this spell increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-<b><i>Spell Lists.</i></b> Artificer, Sorcerer, Wizard
+<b>Spell Lists:</b> Artificer, Sorcerer, Wizard
 
-<u>True Strike</u>
+<h4>True Strike</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -36,9 +36,9 @@ You make a ranged spell attack on a creature that you can see within range. On a
 
 You target a willing creature within range. Once before this spell ends, the target can roll a d4 and add the number rolled to one attack roll of its choice. It can roll the die before or after making the attack roll. This spell then ends.
 
-<b><i>Spell Lists.</i></b> Bard, Sorcerer, Warlock, Wizard
+<b>Spell Lists:</b> Bard, Sorcerer, Warlock, Wizard
 
-<u>Vicious Mockery</u>
+<h4>Vicious Mockery</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -57,11 +57,11 @@ You target a creature that you can see within range, and then you have them make
 
 <b><i>At Higher Levels.</i></b> The damage of this spell increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-<b><i>Spell Lists.</i></b> Bard
+<b>Spell Lists:</b> Bard
 
 <h1>1st Level</h1>
 
-<u>Bane</u>
+<h4>Bane</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -80,9 +80,9 @@ Whenever an affected creature makes an attack roll, ability check, or saving thr
 
 <b><i>At Higher Levels.</b></i> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. Those creatures must be within 30 feet of each other when you target them.
 
-<b><i>Spell Lists.</i></b> Bard, Cleric
+<b>Spell Lists:</b> Bard, Cleric
 
-<u>Bless</u>
+<h4>Bless</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -101,9 +101,9 @@ Whenever an affected creature makes an attack roll, ability check, or saving thr
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-<b><i>Spell Lists.</i></b> Bard, Cleric
+<b>Spell Lists:</b> Bard, Cleric
 
-<u>Chaos Bolt</u>
+<h4>Chaos Bolt</h4>
 
 <b><i>Source.</i></b> Xanathar’s Guide To Everything
 
@@ -176,9 +176,9 @@ Any given creature can only be targeted once by each casting of this spell.
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 2nd level or higher, each target receives an extra 2d4 damage of the damage type rolled for each slot level above 1st.
 
-<b><i>Spell Lists.</i></b> Sorcerer
+<b>Spell Lists:</b> Sorcerer
 
-<u>Chromatic Orb</u>
+<h4>Chromatic Orb</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -199,9 +199,9 @@ You then make a ranged spell attack on a creature that you can see within range.
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
-<u>Cure Wounds</u>
+<h4>Cure Wounds</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -218,9 +218,9 @@ You make a creature that you can see within range regain a number of hit points 
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
-<b><i>Spell Lists.</i></b> Bard, Cleric, Druid, Paladin, Ranger
+<b>Spell Lists:</b> Bard, Cleric, Druid, Paladin, Ranger
 
-<u>False Life</u>
+<h4>False Life</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -237,9 +237,9 @@ You make a creature that you can see within range gain 2d8 temporary hit points.
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 2nd level or higher, that creature gains an additional 1d8 temporary hit points for each slot level above 1st.
 
-<b><i>Spell Lists.</i></b> Artificer, Sorcerer, Wizard
+<b>Spell Lists:</b> Artificer, Sorcerer, Wizard
 
-<u>Find Familiar</u>
+<h4>Find Familiar</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -264,9 +264,9 @@ You cannot have more than one familiar at a time. If you cast this spell while y
 
 Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 2 miles of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
 
-<b><i>Spell Lists.</i></b> Wizard
+<b>Spell Lists:</b> Wizard
 
-<u>Healing Word</u>
+<h4>Healing Word</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -283,9 +283,9 @@ You make a creature that you can see within range regain a number of hit points 
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
 
-<b><i>Spell Lists.</i></b> Bard, Cleric, Druid, Paladin, Ranger
+<b>Spell Lists:</b> Bard, Cleric, Druid, Paladin, Ranger
 
-<u>Shield</u>
+<h4>Shield</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -302,9 +302,9 @@ An invisible barrier of magical force appears and protects someone.
 
 You target yourself or another creature that you can see within range. Until the end of the current turn, that creature gains a +5 bonus to their AC and their Dexterity saving throws, and they receive no damage from <i>Magic Missile</i><sup><i>PHB</i></sup>.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
-<u>Shield Of Faith</u>
+<h4>Shield Of Faith</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -323,11 +323,11 @@ You target a willing creature that you can see within range. A targeted creature
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each spell slot level above 1st.
 
-<b><i>Spell Lists.</i></b> Cleric, Paladin
+<b>Spell Lists:</b> Cleric, Paladin
 
 <h1>2nd Level</h1>
 
-<u>Flock Of Familiars</u>
+<h4>Flock Of Familiars</h4>
 
 <b><i>Source.</i></b> Lost Laboratory Of Kwalish
 
@@ -348,9 +348,9 @@ When you cast a spell with a range of touch, one of the familiars conjured by th
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 3rd level or higher, you temporarily summon one additional familiar for each slot level above 2nd.
 
-<b><i>Spell Lists.</i></b> Wizard
+<b>Spell Lists:</b> Wizard
 
-<u>Healing Spirit</u>
+<h4>Healing Spirit</h4>
 
 <b><i>Source.</i></b> Xanathar’s Guide To Everything
 
@@ -375,9 +375,9 @@ By using your bonus action on your turn, you can move that spirit to a space tha
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.
 
-<b><i>Spell Lists.</i></b> Druid, Ranger
+<b>Spell Lists:</b> Druid, Ranger
 
-<u>Scorching Ray</u>
+<h4>Scorching Ray</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -396,9 +396,9 @@ You make a ranged spell attack on creatures that you can within range for each r
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
-<u>Silvery Barbs</u>
+<h4>Silvery Barbs</h4>
 
 <b><i>Source.</i></b> Strixhaven: A Curriculum Of Chaos
 
@@ -419,11 +419,11 @@ You can then choose yourself or another creature that you can see within range. 
 
 Any given creature can be only affected by one use of this spell at a time.
 
-<b><i>Spell Lists.</i></b> Bard, Sorcerer, Wizard
+<b>Spell Lists:</b> Bard, Sorcerer, Wizard
 
 <h1>3rd Level</h1>
 
-<u>Aura Of Vitality</u>
+<h4>Aura Of Vitality</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -440,9 +440,9 @@ Healing power radiates from you in an aura with a 30-foot radius. Until this spe
 
 When you cast this spell or by using your bonus action on a subsequent turn, you can make yourself or another creature that you can see within the area of that aura regain a number of hit points equal to 2d8 + your spellcasting ability modifier.
 
-<b><i>Spell Lists.</i></b> Bard, Cleric, Paladin
+<b>Spell Lists:</b> Bard, Cleric, Paladin
 
-<u>Fireball</u>
+<h4>Fireball</h4>
 
 <b><I>Source.</i></b> Player’s Handbook
 
@@ -461,9 +461,9 @@ You choose a space that you can see within range, and then you have every creatu
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 4th level or higher, the damage increases by 2d8 for each slot level above 3rd.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists:</b> Sorcerer, Wizard
 
-<u>Haste</u>
+<h4>Haste</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -484,9 +484,9 @@ When this spell ends on an affected creature, they become stunned until the end 
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
-<b><i>Spell Lists.</i></b> Artificer, Sorcerer, Wizard
+<b>Spell Lists:</b> Artificer, Sorcerer, Wizard
 
-<u>Life Transference</u>
+<h4>Life Transference</h4>
 
 <b><i>Source.</i></b> Xanathar’s Guide To Everything
 
@@ -505,9 +505,9 @@ You make yourself receive 4d8 necrotic damage which cannot be reduced or prevent
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
-<b><i>Spell Lists.</i></b> Cleric, Wizard
+<b>Spell Lists:</b> Cleric, Wizard
 
-<u>Lightning Bolt</u>
+<h4>Lightning Bolt</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -526,9 +526,9 @@ You have every creature in a 120-foot line make a Dexterity saving throw. A crea
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 4th level or higher, the damage increases by 2d8 for each slot level above 3rd.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+<b>Spell Lists.</b> Sorcerer, Wizard
 
-<u>Slow</u>
+<h4>Slow</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -547,9 +547,9 @@ An affected target becomes slowed until this spell ends.
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd. Those creatures must be within 30 feet of each other when you target them.
 
-<b><i>Spell Lists.</i></b> Artificer, Sorcerer, Wizard
+<b>Spell Lists.</b> Artificer, Sorcerer, Wizard
 
-<u>Vampiric Touch</u>
+<h4>Vampiric Touch</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -568,11 +568,11 @@ You make a ranged spell attack on another creature that you can see within range
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 4th level or higher, the damage increases by 2d6 for each slot level above 3rd.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Warlock, Wizard
+<b>Spell Lists:</b> Sorcerer, Warlock, Wizard
 
 <h1>4th Level</h1>
 
-<u>Confusion</u>
+<h4>Confusion</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -593,9 +593,9 @@ At the end of each of their turns, an affected creature can make another Wisdom 
 
 <b><i>At Higher Levels.</i></b> When you cast this spell using a spell slot of 5th level or higher, the radius of its effect increases by 5 feet for each slot level above 4th.
 
-<b><i>Spell Lists.</i></b> Bard, Druid, Sorcerer, Wizard
+<b>Spell Lists:</b> Bard, Druid, Sorcerer, Wizard
 
-<u>Guardian Of Nature</u>
+<h4>Guardian Of Nature</h4>
 
 <b><i>Source.</i></b> Xanathar’s Guide To Everything
 
@@ -630,11 +630,11 @@ You choose one of the following forms to assume: Primal Beast or Great Tree.
     <li>While you are on the ground, the ground within 30 feet of you is difficult terrain for hostile creatures.</li>
 </ul>
 
-<b><i>Spell Lists.</i></b> Druid, Ranger
+<b>Spell Lists:</b> Druid, Ranger
 
 <h1>5th Level</h1>
 
-<u>Telekinesis</u>
+<h4>Telekinesis</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -651,21 +651,21 @@ You gain the ability to move creatures or objects with just a mere thought.
 
 When you cast this spell or by using your action on a subsequent turn, you can exert your will on one creature or one object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or you can choose a new target to affect. If you switch targets, the previous target is no longer affected by this spell.
 
-<ul>
-    <li><b>Creature.</b></li>
-    <li>You can try to move a creature. You have to make an ability check with your spellcasting ability which is contested by that creature making an ability check with their Strength. If you win that contest, you move that creature up to 30 feet in any direction, including upward, but not beyond the range of this spell. Until the end of your next turn, that creature is restrained in your telekinetic grip. A creature held upward in this way is suspended in midair.</li>
-    <li>On a subsequent turn, you can use your action to attempt to maintain your telekinetic grip on the same creature by repeating that contest.</li>
-    <li><b>Object.</b></li>
-    <li>You can try to move an object which weighs up to 1 ton. If that object is not being worn or carried, you automatically move it up to 30 feet in any direction, including upward, but not beyond the range of this spell. An object held upward in this way is suspended in midair.</li>
-    <li>If that object is being worn or carried by another creature, you have to make an ability check with your spellcasting ability which is contested by that creature making an ability check with their Strength. If you win that contest, you pull that object away from that creature and can move it up to 30 feet in any direction, including upward, but not beyond the range of this spell.</li>
-    <li>You can exercise fine control on certain objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.</li>
-</ul>
+<b></i>Creature.</i></b> You can try to move a creature. You have to make an ability check with your spellcasting ability which is contested by that creature making an ability check with their Strength. If you win that contest, you move that creature up to 30 feet in any direction, including upward, but not beyond the range of this spell. Until the end of your next turn, that creature is restrained in your telekinetic grip. A creature held upward in this way is suspended in midair.
 
-<b><i>Spell Lists.</i></b> Sorcerer, Wizard
+On a subsequent turn, you can use your action to attempt to maintain your telekinetic grip on the same creature by repeating that contest.
+
+<b><i>Object.</i></b> You can try to move an object which weighs up to 1 ton. If that object is not being worn or carried, you automatically move it up to 30 feet in any direction, including upward, but not beyond the range of this spell. An object held upward in this way is suspended in midair.
+
+If that object is being worn or carried by another creature, you have to make an ability check with your spellcasting ability which is contested by that creature making an ability check with their Strength. If you win that contest, you pull that object away from that creature and can move it up to 30 feet in any direction, including upward, but not beyond the range of this spell.
+
+You can exercise fine control on certain objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
+
+<b>Spell Lists:</b> Sorcerer, Wizard
 
 <h1>6th Level</h1>
 
-<u>Forbiddance</u>
+<h4>Forbiddance</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -686,9 +686,9 @@ When you cast this spell, you can designate a password. A creature that speaks t
 
 This spell’s area can’t overlap with the area of another forbiddance spell. If you cast forbiddance every day for 30 days in the same location, the spell lasts until it is dispelled, and the material components are consumed on the last casting.
 
-<b><i>Spell Lists.</i></b> Cleric
+<b>Spell Lists:</b> Cleric
 
-<u>Instant Summons</u>
+<h4>Instant Summons</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -707,7 +707,7 @@ At any time thereafter, you can use your action to speak the item’s name and c
 
 <i>Dispel Magic</i><sup><i>PHB</i></sup> or a similar effect successfully applied to the sapphire ends this spell’s effect.
 
-<b><i>Spell Lists.</i></b> Wizard
+<b>Spell Lists:</b> Wizard
 
 <h1>7th Level</h1>
 
@@ -719,7 +719,7 @@ None
 
 <h1>9th Level</h1>
 
-<u>Weird</u>
+<h4>Weird</h4>
 
 <b><i>Source.</i></b> Player’s Handbook
 
@@ -740,4 +740,4 @@ The illusion calls on the creature's deepest fears, manifesting its worst nightm
 
 At the end of each turn for an affected creature, they have to make a Wisdom saving throw. On a failure, they receive 10d4 psychic damage. On a success, this spell ends for them.
 
-<b><i>Spell Lists.</i></b> Bard, Wizard
+<b>Spell Lists:</b> Bard, Wizard

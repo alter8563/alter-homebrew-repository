@@ -1,6 +1,6 @@
 <h1>List Of Racial Traits</h1>
 
-<u>Photosynthesis -3 Points-</u>
+<h4>Photosynthesis -3 Points-</h4>
 
 <i>Prerequisites: Creature Type (Plant)</i>
 
