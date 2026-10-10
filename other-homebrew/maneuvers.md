@@ -16,7 +16,7 @@ If another creature that you can see inflicts damage to you with a weapon attack
 
 <h4>Disarming Attack</h4>
 
-If you hit another creature with a weapon attack, you can spend 1 maneuver point to perform this maneuver. You inflict one extra die of damage to that creature, and then you have that creature make a Dexterity saving throw. On a failure, you make them drop one object of your choice in their grasp.
+If you hit another creature with a weapon attack, you can spend 1 maneuver point to perform this maneuver. You inflict one extra die of damage to that creature, and then you have that creature make a Dexterity saving throw. On a failure, you make them drop one object (your choice) in their grasp.
 
 <h4>Dodge Roll</h4>
 
@@ -40,7 +40,7 @@ If you hit another creature with a weapon attack, you can spend 1 maneuver point
 
 <h4>Redirect</h4>
 
-If another creature that you can see misses you with a weapon attack, you can spend 1 maneuver point with your reaction to perform this maneuver. You have that creature reroll their attack roll for a new weapon attack on a different creature that you can see within 5 feet of you.
+If another creature that you can see misses you with an attack roll, you can spend 1 maneuver point with your reaction to perform this maneuver. You have that creature reroll their attack roll for a new attack roll on a different creature that you can see within 5 feet of you.
 
 <h4>Riposte</h4>
 
@@ -62,7 +62,7 @@ If you hit another creature with a weapon attack, you can spend 1 maneuver point
 
 <h4>Attack Order</h4>
 
-You can spend 2 maneuver points with your bonus action to perform this maneuver. You target a friendly creature that you can see within 30 feet of you. That creature can then use their reaction to make one weapon attack.
+You can spend 2 maneuver points with your bonus action to perform this maneuver. You target a friendly creature that you can see within 30 feet of you. That creature can then use their reaction to make a weapon attack.
 
 <h4>Charging Impact</h4>
 
@@ -82,7 +82,7 @@ While you are grappling another creature, you can spend 2 maneuver points with y
 
 <h4>Intercept</h4>
 
-If another creature that you can see inflicts damage to you with a weapon attack, you can spend 2 maneuver points with your reaction to perform this maneuver. You decrease that damage by a number equal to 1d8 + your Strength modifier or your Dexterity modifier (your choice) + your level. And if you decrease that damage to 0 in this way, you can use that same reaction to make a weapon attack on that creature.
+If another creature that you can see inflicts damage to you with a weapon attack, you can spend 2 maneuver points with your reaction to perform this maneuver. You decrease that damage by a number equal to 1d8 + your Strength modifier or your Dexterity modifier (your choice) + your level. And if you decrease that damage to 0 in this way, you can use that same reaction to make a weapon attack on that creature, provided they are within the range of your unarmed strike or your weapon.
 
 <h4>Joint Strike</h4>
 
@@ -102,7 +102,7 @@ If you hit another creature with a weapon attack, you can spend 1 maneuver point
 
 <h4>Wide Strike</h4>
 
-If you miss another creature that you can see with a weapon attack, you can spend 2 maneuver points with your reaction to perform this maneuver. You reroll your attack roll for a new weapon attack on a different creature that you can see within the range of your unarmed strike or your weapon.
+If you miss another creature that you can see with a weapon attack, you can spend 2 maneuver points with your reaction to perform this maneuver. You reroll your attack roll for a new attack roll on a different creature that you can see within the range of your unarmed strike or your weapon.
 
 <h1>3rd-Level Maneuvers</h1>
 
@@ -150,7 +150,7 @@ You can spend 4 maneuver points with your action to perform this maneuver. You m
 
 <h4>Coordinated Attack</h4>
 
-You can spend 4 maneuver points with your action to perform this maneuver. You target up to five friendly creatures that you can see within 30 feet of you. Each of those creatures can then use their reaction to make one weapon attack.
+You can spend 4 maneuver points with your action to perform this maneuver. You target up to five friendly creatures that you can see within 30 feet of you. Each of those creatures can then use their reaction to make a weapon attack.
 
 <h4>Coordinated Movement</h4>
 
@@ -162,7 +162,7 @@ If you hit another creature with a weapon attack, you can spend 4 maneuver point
 
 <h4>Tornado Volley</h4>
 
-You can spend 4 maneuver points with your action to perform this maneuver. You select a space that you can see within the range of your ranged weapon. You then use that ranged weapon to make a weapon attack on every other creature within 10 feet of that space. But if any of those attacks hit, you cannot add your ability modifier to your damage rolls.
+You can spend 4 maneuver points with your action to perform this maneuver. You choose a space that you can see within the range of your ranged weapon. You then use that ranged weapon to make a weapon attack on every other creature within 10 feet of that space. But if any of those attacks hit, you cannot add your ability modifier to your damage rolls.
 
 <h4>Undying Spirit</h4>
 
@@ -180,7 +180,7 @@ You can spend 5 maneuver points with your bonus action to perform this maneuver.
 
 <h4>Blaze Of Glory</h4>
 
-If you drop to 0 hit points and do not die outright, you can spend 5 maneuver points to perform this maneuver. You delay yourself from falling unconscious. You then move up to your movement speed, and then you can make a weapon attack on another creature that you can see within the range of your unarmed strike or your weapon. But if you still have 0 hit points afterward, you fall unconscious.
+If you drop to 0 hit points and do not die outright, you can spend 5 maneuver points with your reaction to perform this maneuver. You delay yourself from falling unconscious. You then make your current hit points reset to 1 hit point, and then you can make a weapon attack on another creature that you can see within the range of your unarmed strike or your weapon. But if you still only have 1 hit point afterward, you drop back down to 0 hit points.
 
 <h4>Critical Hit</h4>
 

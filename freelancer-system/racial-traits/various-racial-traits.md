@@ -194,7 +194,7 @@ Now while you are not wearing a suit of armor, your AC is equal to 12 + your Dex
 
 <i>Prerequisites: Creature Type (Beast/Celestial/Fiend/Humanoid)</i>
 
-Your alignment can no longer be forcibly changed.
+You can no longer have your alignment be forcibly changed.
 
 <i>Restrictions: You must not have [Climate Adaptation], [Trance], or [Void Breath].</i>
 

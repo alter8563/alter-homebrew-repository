@@ -651,7 +651,7 @@ You gain the ability to move creatures or objects with just a mere thought.
 
 When you cast this spell or by using your action on a subsequent turn, you can exert your will on one creature or one object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or you can choose a new target to affect. If you switch targets, the previous target is no longer affected by this spell.
 
-<b></i>Creature.</i></b> You can try to move a creature. You have to make an ability check with your spellcasting ability which is contested by that creature making an ability check with their Strength. If you win that contest, you move that creature up to 30 feet in any direction, including upward, but not beyond the range of this spell. Until the end of your next turn, that creature is restrained in your telekinetic grip. A creature held upward in this way is suspended in midair.
+<b><i>Creature.</i></b> You can try to move a creature. You have to make an ability check with your spellcasting ability which is contested by that creature making an ability check with their Strength. If you win that contest, you move that creature up to 30 feet in any direction, including upward, but not beyond the range of this spell. Until the end of your next turn, that creature is restrained in your telekinetic grip. A creature held upward in this way is suspended in midair.
 
 On a subsequent turn, you can use your action to attempt to maintain your telekinetic grip on the same creature by repeating that contest.
 
